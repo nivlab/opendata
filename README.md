@@ -7,6 +7,8 @@ List of (potentially interesting) publicly available datasets. All contributions
 - [Data Repositories](#Repositories)
 - [Other Lists](#lists)
 
+<br>
+
 ## Learning & Decision Making <a name="rldm"></a>
 
 ### Configural Learning
@@ -18,7 +20,6 @@ Human fMRI study of multi-featural conjunctive representations. Behavioral and f
 
 #### [Erev et al. (2017)](https://zenodo.org/record/845873#.WeDg9GhSw2x): Choice Prediction Competition
 The complete raw data from a choice prediction competition for decisions under risk, under ambiguity, and from experience. The data includes 510,750 choices of human decision makers choosing between two risky and/or uncertain prospects with up to 10 possible outcomes each.
-<br>
 
 ### Stationary Bandit Task
 
@@ -30,10 +31,17 @@ A study of learning rate asymmetry in a simple stationary probabilistic bandit t
 #### [Moran et al. (2019)](https://osf.io/8j7yf/?view_only=8362bdb2672643de98daaa8e509aae30): Retrospective Model-Based inference Guides Model-Free Credit Assignment
 Study of MB retrospective-inference, wherein MB system resolves uncertainty present at the time of choice thereby guiding an MF credit-assignment.
 
+### Eye-tracking
+
+#### [Thomas et al. (2019)](https://www.nature.com/articles/s41562-019-0584-8#data-availability): Gaze bias differences capture individual choice behaviour
+An investigation of the strength of the relationship between eye gaze and choice across four different simple choice experiments. They report that an association between gaze and choice is present for most individuals, but differs considerably in strength.
+
 ### Multi-agent RL
 
 #### [Zhu et al. (2019)](https://osf.io/4x3nf/): Patients with basal ganglia damage show preserved learning in an economic game
 Study of the behavior of patients with focal lesions to either BG or OFC in a multi-strategy competitive game known to engage these regions. We find that whereas OFC patients are significantly impaired, BG patients show intact learning in the economic game. By contrast, when information about the strategic context is absent, both cohorts are significantly impaired.
+
+<br>
 
 ## Computational Psychiatry <a name="psychiatry"></a>
 
