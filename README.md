@@ -36,6 +36,11 @@ Study of MB retrospective-inference, wherein MB system resolves uncertainty pres
 #### [Thomas et al. (2019)](https://www.nature.com/articles/s41562-019-0584-8#data-availability): Gaze bias differences capture individual choice behaviour
 An investigation of the strength of the relationship between eye gaze and choice across four different simple choice experiments. They report that an association between gaze and choice is present for most individuals, but differs considerably in strength.
 
+### Perception & RL
+
+#### [Correa et al. (2018)](https://figshare.com/articles/Codes_and_Data_-_Correa_et_al_JNeuro_2018/7987100): How the Level of Reward Awareness Changes the Computational and Electrophysiological Signatures of Reinforcement Learning
+Modulating perceptual awareness of reward changes reinforcement learning.
+
 ### Multi-agent RL
 
 #### [Zhu et al. (2019)](https://osf.io/4x3nf/): Patients with basal ganglia damage show preserved learning in an economic game
