@@ -18,6 +18,9 @@ Human fMRI study of multi-featural conjunctive representations. Behavioral and f
 
 ### Decisions from Description
 
+#### [Glockner & Pachur (2012)](https://osf.io/7khwj/): Cognitive models of risky choice: parameter stability and predictive accuracy of prospect theory.
+Dataset for test-retest reliability of CPT parameters.
+
 #### [Erev et al. (2017)](https://zenodo.org/record/845873#.WeDg9GhSw2x): Choice Prediction Competition
 The complete raw data from a choice prediction competition for decisions under risk, under ambiguity, and from experience. The data includes 510,750 choices of human decision makers choosing between two risky and/or uncertain prospects with up to 10 possible outcomes each.
 
