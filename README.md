@@ -21,6 +21,9 @@ Human fMRI study of multi-featural conjunctive representations. Behavioral and f
 #### [Erev et al. (2017)](https://zenodo.org/record/845873#.WeDg9GhSw2x): Choice Prediction Competition
 The complete raw data from a choice prediction competition for decisions under risk, under ambiguity, and from experience. The data includes 510,750 choices of human decision makers choosing between two risky and/or uncertain prospects with up to 10 possible outcomes each.
 
+#### [Wulff et al. (2018)](https://zenodo.org/record/1491449): A meta-analytic review of two modes of learning and the description-experience gap
+The data of 28 publications studying the description-experience gap, involving experience- and description-based risky choices, that served as the basis for the meta analysis reported in Wulff et al. (2018). A meta-analytic review of two modes of learning and the description-experience gap. Psychological Bulletin, 144(2), 140-176.
+
 ### Stationary Bandit Task
 
 #### [Lefebvre et al. (2017)](https://dx.doi.org/10.6084/m9.figshare.4265408.v1): Behavioural and neural characterization of optimistic reinforcement learning
