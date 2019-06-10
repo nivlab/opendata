@@ -34,6 +34,9 @@ A study of learning rate asymmetry in a simple stationary probabilistic bandit t
 
 ### Model-based Inference
 
+#### [Wu et al. (2018)](https://www.nature.com/articles/s41562-018-0467-4): Generalization guides human exploration in vast decision spaces
+Value generalization using Gaussian process function learning. Data available [here](https://github.com/charleywu/gridsearch).
+
 #### [Moran et al. (2019)](https://osf.io/8j7yf/?view_only=8362bdb2672643de98daaa8e509aae30): Retrospective Model-Based inference Guides Model-Free Credit Assignment
 Study of MB retrospective-inference, wherein MB system resolves uncertainty present at the time of choice thereby guiding an MF credit-assignment.
 
