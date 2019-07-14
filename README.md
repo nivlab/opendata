@@ -32,6 +32,9 @@ The data of 28 publications studying the description-experience gap, involving e
 #### [Lefebvre et al. (2017)](https://dx.doi.org/10.6084/m9.figshare.4265408.v1): Behavioural and neural characterization of optimistic reinforcement learning
 A study of learning rate asymmetry in a simple stationary probabilistic bandit task. fMRI data available [here](http://neurovault.org/collections/2195/).
 
+#### [Klein et al. (2017)](https://www.nature.com/articles/s41467-019-10718-8): Learning relative values in the striatum induces violations of normative decision making
+Reference-dependent value learning in stationary bandits. 
+
 ### Model-based Inference
 
 #### [Wu et al. (2018)](https://www.nature.com/articles/s41562-018-0467-4): Generalization guides human exploration in vast decision spaces
