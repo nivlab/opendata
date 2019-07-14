@@ -64,11 +64,15 @@ Study of the behavior of patients with focal lesions to either BG or OFC in a mu
 
 ### Reinforcement Learning
 
-#### [Aylward et al. (Submitted)](https://osf.io/ub6j7/): Altered decision-making under uncertainty in unmedicated mood and anxiety disorders
+#### [Mkrtchian et al. (2017)](https://figshare.com/articles/Avoidance_Anxiety_Materials/3860250): Modeling Avoidance in Mood and Anxiety Disorders Using Reinforcement Learning
+Pavlovian instrumental transfer (PIT) task in anxious individuals.
+
+#### [Aylward et al. (2019)](https://osf.io/ub6j7/): Altered decision-making under uncertainty in unmedicated mood and anxiety disorders
 This repository contains all the data for This manuscript looked at exploratory and learning behaviors in healthy and anxious individuals in a 4-arm restless bandit task with both rewards and punishments.
 
 #### [Homan et al. (2019)](https://github.com/philipphoman/comp): Neural computations of threat in the aftermath of combat trauma
 Contains all the data and analysis code to reproduce the manuscript, which fit Pearce-Hall style models to patients wiht post-traumatic stress disorder.
+
 
 ### Experience Sampling
 
