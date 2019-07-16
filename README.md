@@ -73,6 +73,8 @@ This repository contains all the data for This manuscript looked at exploratory 
 #### [Homan et al. (2019)](https://github.com/philipphoman/comp): Neural computations of threat in the aftermath of combat trauma
 Contains all the data and analysis code to reproduce the manuscript, which fit Pearce-Hall style models to patients wiht post-traumatic stress disorder.
 
+#### [Cavanagh et al. (2019)](http://predict.cs.unm.edu/downloads.php): Multiple dissociations between comorbid depression and anxiety on reward and punishment processing: evidence from computationally informed Feeling
+This repository (specifically, accession number d006 at the link) contains behavioural and EEG data from participants low/high in BDI performing the Michael Frank Hiragata Go/NoGo learning task.
 
 ### Experience Sampling
 
