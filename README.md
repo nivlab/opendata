@@ -64,9 +64,6 @@ Study of the behavior of patients with focal lesions to either BG or OFC in a mu
 
 ### Reinforcement Learning
 
-#### [Mkrtchian et al. (2017)](https://figshare.com/articles/Avoidance_Anxiety_Materials/3860250): Modeling Avoidance in Mood and Anxiety Disorders Using Reinforcement Learning
-Pavlovian instrumental transfer (PIT) task in anxious individuals.
-
 #### [Aylward et al. (2019)](https://osf.io/ub6j7/): Altered decision-making under uncertainty in unmedicated mood and anxiety disorders
 This repository contains all the data for This manuscript looked at exploratory and learning behaviors in healthy and anxious individuals in a 4-arm restless bandit task with both rewards and punishments.
 
@@ -75,6 +72,19 @@ Contains all the data and analysis code to reproduce the manuscript, which fit P
 
 #### [Cavanagh et al. (2019)](http://predict.cs.unm.edu/downloads.php): Multiple dissociations between comorbid depression and anxiety on reward and punishment processing: evidence from computationally informed Feeling
 This repository (specifically, accession number d006 at the link) contains behavioural and EEG data from participants low/high in BDI performing the Michael Frank Hiragata Go/NoGo learning task.
+
+### Pavlovian Instrumental Transfer
+
+#### [Mkrtchian et al. (2017)](https://figshare.com/articles/Avoidance_Anxiety_Materials/3860250): Modeling Avoidance in Mood and Anxiety Disorders Using Reinforcement Learning
+Pavlovian instrumental transfer (PIT) task in anxious individuals.
+
+#### [Swart et al. (2017)](https://elifesciences.org/articles/22169/figures#SD1-data): Catecholaminergic challenge uncovers distinct Pavlovian and instrumental mechanisms of motivated (in)action
+
+106 participants in PIT task.
+
+#### [Swart et al. (2018)](https://data.donders.ru.nl/collections/di/dccn/DSC_3017033.03_624?0): Frontal network dynamics reflect neurocomputational mechanisms for reducing maladaptive biases in motivated action
+
+34 participants in PIT task with EEG.
 
 ### Experience Sampling
 
