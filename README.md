@@ -80,7 +80,7 @@ Pavlovian instrumental transfer (PIT) task in anxious individuals.
 
 #### [Swart et al. (2017)](https://elifesciences.org/articles/22169/figures#SD1-data): Catecholaminergic challenge uncovers distinct Pavlovian and instrumental mechanisms of motivated (in)action
 
-106 participants in PIT task.
+106 participants in PIT task. Download data from Figure 2.
 
 #### [Swart et al. (2018)](https://data.donders.ru.nl/collections/di/dccn/DSC_3017033.03_624?0): Frontal network dynamics reflect neurocomputational mechanisms for reducing maladaptive biases in motivated action
 
