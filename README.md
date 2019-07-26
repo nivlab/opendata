@@ -27,6 +27,9 @@ The complete raw data from a choice prediction competition for decisions under r
 #### [Wulff et al. (2018)](https://zenodo.org/record/1491449): A meta-analytic review of two modes of learning and the description-experience gap
 The data of 28 publications studying the description-experience gap, involving experience- and description-based risky choices, that served as the basis for the meta analysis reported in Wulff et al. (2018). A meta-analytic review of two modes of learning and the description-experience gap. Psychological Bulletin, 144(2), 140-176.
 
+#### [Frey et al. (2017)](https://osf.io/rce7g/): Risk preference shares the psychometric structure of major psychological traits
+Large dataset of over 1600 participants on many classic risk tasks. Includes many risk questionnaires.
+
 ### Stationary Bandit Task
 
 #### [Lefebvre et al. (2017)](https://dx.doi.org/10.6084/m9.figshare.4265408.v1): Behavioural and neural characterization of optimistic reinforcement learning
