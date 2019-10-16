@@ -51,6 +51,9 @@ Study of MB retrospective-inference, wherein MB system resolves uncertainty pres
 #### [Thomas et al. (2019)](https://www.nature.com/articles/s41562-019-0584-8#data-availability): Gaze bias differences capture individual choice behaviour
 An investigation of the strength of the relationship between eye gaze and choice across four different simple choice experiments. They report that an association between gaze and choice is present for most individuals, but differs considerably in strength.
 
+#### [Wise et al. (2019)](https://osf.io/b4e72/): A computational account of threat-related attentional bias
+Measures of visual attention through eye-tracking of threatening stimuli in [aversive reinforcement learning task](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007341).
+
 ### Perception & RL
 
 #### [Correa et al. (2018)](https://figshare.com/articles/Codes_and_Data_-_Correa_et_al_JNeuro_2018/7987100): How the Level of Reward Awareness Changes the Computational and Electrophysiological Signatures of Reinforcement Learning
