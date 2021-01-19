@@ -7,8 +7,7 @@ last_modified_date: 2020-08-06
 ---
 
 # OpenData
+<br>
+A compendium of publicly available datasets with potential interest to the Niv lab (and others).
 
-{% for dataset in site.datasets %}
-  <p>{{ dataset.year }}</p>
-  <p>{{ dataset.permalink }}</p>
-{% endfor %}
+Get started by using the search bar above or with the links on the left.
