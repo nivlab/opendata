@@ -1,0 +1,20 @@
+{"0": {
+    "doc": "Datasets",
+    "title": "Datasets",
+    "content": "test test test ",
+    "url": "https://nivlab.github.io/nivturk/docs/datasets",
+    "relUrl": "/docs/datasets"
+  },"1": {
+    "doc": "Home",
+    "title": "Home",
+    "content": "# OpenData {% for dataset in site.datasets %} {{ dataset.year }} . {{ dataset.permalink }} . {% endfor %} ",
+    "url": "https://nivlab.github.io/nivturk/",
+    "relUrl": "/"
+  },"2": {
+    "doc": "Widge et al. 2019",
+    "title": "Widge et al. 2019",
+    "content": "widge depression ",
+    "url": "https://nivlab.github.io/nivturk/docs/datasets/widge2019/",
+    "relUrl": "/docs/datasets/widge2019/"
+  }
+}
