@@ -72,6 +72,8 @@ Data repository: https://osf.io/b4qkp/
 
 In the study, both a state anxious and a control group learned probabilistic stimulus-outcome mappings in a volatile task environment while the authors recorded their electrophysiological (EEG) signals. State anxiety was associated with an underestimation of environmental and informational uncertainty, and an increase in uncertainty about volatility estimates.
 
+---
+
 ## Depression
 
 ### Cavanagh et al. (2019)
@@ -91,6 +93,8 @@ Data repository: https://openneuro.org/datasets/ds001784
 ```
 The authors show that DBS' effect is explained in part by enhancement of PFC-driven cognitive control. DBS improves human subjects' performance on a cognitive control task and increases theta (5–8Hz) oscillations in both medial and lateral PFC. The theta increase predicts subjects' clinical outcomes.
 
+---
+
 ## Obsessive-Compulsive Disorder
 
 ### Marton et al. (2019)
@@ -102,6 +106,8 @@ Data repository: https://archive.data.jhu.edu/dataset.xhtml?persistentId=doi:10.
 
 Doubt is a prominent feature of obsessive-compulsive disorder (OCD). The authors developed a new instrument, the Doubt Questionnaire, to clinically assess doubt, and evaluated its psychometric properties. The random dot motion task was used to measure reaction time and subjective certainty, at varying levels of perceptual difficulty, in individuals who scored high and low on doubt, and in individuals with and without OCD. Compared to those with low doubt, those with high doubt accumulate evidence more slowly and report lower certainty when making decisions under conditions of low uncertainty.
 
+---
+
 ## Schizophrenia
 
 ### Repovs & Barch (2012)
@@ -112,6 +118,8 @@ Data repository: https://openneuro.org/datasets/ds000115/
 ```
 
 The authors assessed functional connectivity during rest and during three working memory loads of an N-back task (0-back, 1-back, 2-back) among: (1) individuals with schizophrenia (N = 19); (2) the siblings of individuals with schizophrenia (N = 28); (3) healthy controls (N = 10); and (4) the siblings of healthy controls (N = 17).
+
+---
 
 ## Transdiagnostic
 
