@@ -106,6 +106,15 @@ Data repository: https://archive.data.jhu.edu/dataset.xhtml?persistentId=doi:10.
 
 Doubt is a prominent feature of obsessive-compulsive disorder (OCD). The authors developed a new instrument, the Doubt Questionnaire, to clinically assess doubt, and evaluated its psychometric properties. The random dot motion task was used to measure reaction time and subjective certainty, at varying levels of perceptual difficulty, in individuals who scored high and low on doubt, and in individuals with and without OCD. Compared to those with low doubt, those with high doubt accumulate evidence more slowly and report lower certainty when making decisions under conditions of low uncertainty.
 
+### Fradkin et al. (2020)
+*Doubting what you already know: Uncertainty regarding state transitions is associated with obsessive compulsive symptoms*
+```
+Publication(s): https://doi.org/10.1371/journal.pcbi.1007634
+Data repository: https://osf.io/d6b3m/
+```
+
+The authors investigated the relationship between OC symptoms and transition uncertainty in a reversal learning task. Participants with higher OC symptoms exhibited increased transition uncertainty, as well as a pattern of behavior potentially indicative of a difficulty in relying on learned contingencies, with no evidence for perseverative behavior. 
+
 ---
 
 ## Schizophrenia
