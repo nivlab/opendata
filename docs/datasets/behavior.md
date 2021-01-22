@@ -102,6 +102,16 @@ Data repository: https://doi.org/10.5061/dryad.14m41
 
 Data from 22 participants on the horizons task, which how individuals navigate the explore-exploit tradeoff. Participants were given atomoxetine, a norepinephrine transporter blocker. In line with predicitons, there was an effect of atomoxetine on random, but not directed exploration. However, contrary to expectations, atomoxetine reduced rather than increased random exploration.
 
+### Collins (2018)
+{: .no_toc }
+*The Tortoise and the Hare: Interactions between Reinforcement Learning and Working Memory*
+```
+Publication(s): https://doi.org/10.1162/jocn_a_01238
+Data repository: https://osf.io/5gbr3/
+```
+
+Data from 49 participants on a reinforcement learning task with a working memory component.
+
 ### Correa et al. (2018)
 {: .no_toc }
 *How the Level of Reward Awareness Changes the Computational and Electrophysiological Signatures of Reinforcement Learning*

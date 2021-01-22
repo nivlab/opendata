@@ -182,6 +182,26 @@ Data repository: https://figshare.com/articles/dataset/Models_that_learn_how_hum
 
 Dataset drawn from patients with either unipolar (n = 34) or bipolar (n = 33) depression and matched healthy controls (n = 34) making decisions on a simple two-armed bandit task.
 
+### Gagne et al. (2020)
+{: .no_toc }
+*Impaired adaptation of learning to contingency volatility in internalizing psychopathology*
+```
+Publication(s): https://doi.org/10.7554/eLife.61387
+Data repository: https://osf.io/8mzuj/
+```
+
+Transdiagnostic sample (n = 58) comprised of 12 participants who met diagnostic criteria for GAD, 20 participants who met diagnostic criteria for MDD, and 26 healthy control participants. Paticipants performed a 2-arm bandit task with volatility.
+
+### Hammond et al. (2020)
+{: .no_toc }
+*Anxiety and Depression Related Abnormalities in Socio-affective Learning*
+```
+Publication(s): https://psyarxiv.com/tg3ec
+Data repository: https://osf.io/quy76/
+```
+
+N=195 participants (across two samples) completed a 2-arm bandit task with volatility.
+
 ### Seow & Gillan (2020)
 {: .no_toc }
 *Transdiagnostic Phenotyping Reveals a Host of Metacognitive Deficits Implicated in Compulsivity*
