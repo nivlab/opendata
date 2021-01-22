@@ -29,7 +29,7 @@ The [Journal of Open Psychology Data](https://openpsychologydata.metajnl.com/) f
 
 ## CRCNS
 
-The Collaborative Research in Computational Neuroscience group has a [repository](http://crcns.org/data-sets) of publicly available, high quality datasets valuable for testing computational models of the brain and new analysis methods. The data include physiological recordings from sensory and memory systems, as well as eye movement data.
+The Collaborative Research in Computational Neuroscience group has a [repository](http://crcns.org/data-sets) of publicly available datasets. Includes behavioral, neurophysiological and peripheral data.
 
 ## Open Psychometrics
 
