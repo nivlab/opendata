@@ -54,6 +54,15 @@ Data repository: https://zenodo.org/record/1491449
 
 The aggregated data from 28 publications of experiments studying decisions from description and experience.
 
+### Rutledge et al. (2021)
+*Risky decision and happiness task: The Great Brain Experiment smartphone app*
+```
+Publication(s): https://doi.org/10.1073/pnas.1407535111, https://doi.org/10.1016/j.cub.2016.05.017
+Data repository: https://doi.org/10.5061/dryad.prr4xgxkk
+```
+
+This resource consists of data from a risky decision and happiness task that was part of The Great Brain Experiment (GBE) smartphone app. Data were collected from 47,067 participants aged 18+ between March 8, 2013 and October 5, 2015. These anonymous unpaid participants completed the task a total of 91,058 times making approximately 2.7 million choices and 1.1 million happiness ratings in total. This resource represents at least 6,000 hours of task data. A subset of 1,858 participants also completed a depression questionnaire and answered five questions about their depression history.
+
 ---
 
 ## Reinforcement Learning
@@ -76,15 +85,6 @@ Data repository: https://figshare.com/articles/dataset/Behavioral_data_and_data_
 
 The behavior from 85 participants who performed a simple 2-arm bandit task.
 
-### Swart et al. (2017)
-*Catecholaminergic challenge uncovers distinct Pavlovian and instrumental mechanisms of motivated (in)action*
-```
-Publications: https://elifesciences.org/articles/22169/
-Data repository: https://elifesciences.org/articles/22169/figures#SD1-data
-```
-
-106 participants on the Pavlovian Instrumental Transfer task.
-
 ### Correa et al. (2018)
 *How the Level of Reward Awareness Changes the Computational and Electrophysiological Signatures of Reinforcement Learning*
 ```
@@ -94,14 +94,14 @@ Data repository: https://figshare.com/articles/Codes_and_Data_-_Correa_et_al_JNe
 
 A study investigating the effects of stimulus visibility on reward learning and choice.
 
-### Swart et al. (2018)
-*Frontal network dynamics reflect neurocomputational mechanisms for reducing maladaptive biases in motivated action*
+### Konstantinidis et al. (2018)
+*Magnitude and incentives: revisiting the overweighting of extreme events in risky decisions from experience*
 ```
-Publications(s): https://doi.org/10.1371/journal.pbio.2005979
-Data repository: https://data.donders.ru.nl/collections/di/dccn/DSC_3017033.03_624?0
+Publication(s): https://doi.org/10.3758/s13423-017-1383-8
+Data repository: https://osf.io/z57tn/
 ```
 
-34 participants on the Pavlovian Instrumental Transfer task.
+Data from N=202 participants on a simple risky bandit task, which examined how the magnitude of prospective outcomes impacted risk preferences. 
 
 ### Wu et al. (2018)
 *Generalization guides human exploration in vast decision spaces*
@@ -159,3 +159,76 @@ Data repository: http://www.github.com/glamlab/gaze-bias-differences
 ```
 
 An investigation of the strength of the relationship between eye gaze and choice across four different simple choice experiments. They report that an association between gaze and choice is present for most individuals, but differs considerably in strength.
+
+---
+
+## Pavlovian Instrumental Transfer
+
+See also PIT studies in the psychiatry section.
+
+### Swart et al. (2017)
+*Catecholaminergic challenge uncovers distinct Pavlovian and instrumental mechanisms of motivated (in)action*
+```
+Publication(s): https://elifesciences.org/articles/22169/
+Data repository: https://elifesciences.org/articles/22169/figures#SD1-data
+```
+
+106 participants on the Pavlovian Instrumental Transfer task.
+
+### Millner et al. (2018)
+*Pavlovian Control of Escape and Avoidance*
+```
+Publication(s): https://doi.org/10.1162/jocn_a_01224
+Data repository: https://osf.io/p36u5/
+```
+
+Data from 52 participants on a modified Pavlovian Instrumental Transfer task where participants were made to either prevent or escape from aversive stimuli. This task involves no reward.
+
+### Moutoussis et al. (2018)
+*Change, stability, and instability in the Pavlovian guidance of behaviour from adolescence to young adulthood*
+```
+Publication(s): https://doi.org/10.1371/journal.pcbi.1006679
+Data repository: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006679#sec016
+```
+
+Data from 600+ young adults (aged 14-24) who completed the Pavlovian instrumental transfer task. Young people with higher IQ relied less on Pavlovian guidance. The degree of Pavlovian influence was not a highly stable trait and did not depend on age or mood. (Data from Neuroscience in Psychiatry Network.)
+
+### Swart et al. (2018)
+*Frontal network dynamics reflect neurocomputational mechanisms for reducing maladaptive biases in motivated action*
+```
+Publications(s): https://doi.org/10.1371/journal.pbio.2005979
+Data repository: https://data.donders.ru.nl/collections/di/dccn/DSC_3017033.03_624?0
+```
+
+34 participants on the Pavlovian Instrumental Transfer task.
+
+### Csifcsak et al. (2019)
+*Intermittent Absence of Control during Reinforcement Learning Interferes with Pavlovian Bias in Action Selection*
+```
+Publication(s): https://doi.org/10.1162/jocn_a_01515
+Data repository: https://osf.io/89mdr/
+```
+
+Data from 23 participants on a modified Pavlovian Instrumental Transfer task where control over outcomes (probability of reward) was modified in blocks over the course of the experiment. Pavlovian biases enhanced during low control blocks.
+
+### Csifcsak et al. (2020)
+*Transcranial direct current stimulation above the medial prefrontal cortex counteracts the effects of diminished outcome controllability during reinforcement learning*
+```
+Publication(s): https://psyarxiv.com/rbeuz/
+Data repository: https://osf.io/d6eqk/
+```
+
+Data from 52 participants on a modified Pavlovian Instrumental Transfer task where control over outcomes (probability of reward) was modified in blocks over the course of the experiment. Pavlovian biases enhanced during low control blocks. Participants also undergoing tDCS stimulation.
+
+---
+
+## Development
+
+### Bach et al. (2020)
+*Predictors of risky foraging behaviour in healthy young people*
+```
+Publication(s): https://doi.org/10.1038/s41562-020-0867-0
+Data repository: https://osf.io/mnbfy/
+```
+
+Data from 781 young adults (aged 14-24) who completed a risky foraging task. Sex was found to be the most important predictor of cautious behaviour and performance. Other independent predictors of cautiousness and performance were self-reported daringness, IQ and self-reported cognitive complexity. No evidence for an impact of age or maturation. (Data from Neuroscience in Psychiatry Network.)

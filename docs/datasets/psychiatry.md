@@ -63,6 +63,13 @@ Data repository: https://osf.io/w4yfp/
 
 The authors causally tested whether anxiety impacts goal-directed behavior in two experiments (between-subject N=88; within-subject N=50) that used the inhalation of hypercapnic gas (7.5% CO2) to induce an acute state of anxiety in healthy volunteers. In both experiments, anxiety did not affect goal-directed performance.
 
+### Lamba et al. (2020)
+```
+Publication(s): https://doi.org/10.1177%2F0956797620910993
+Data repository: https://osf.io/ea67f/
+```
+Using a dynamic trust game and a matched nonsocial task, the authors found that healthy subjects (n = 257) were particularly good at learning under negative social uncertainty. In contrast, subjects with anxiety (n = 97) overinvested in exploitative partners.
+
 ### Hein et al. (2021)
 *State Anxiety Biases Estimates of Uncertainty in Volatile Environments and Impairs Reward Learning*
 ```
@@ -113,7 +120,7 @@ Publication(s): https://doi.org/10.1371/journal.pcbi.1007634
 Data repository: https://osf.io/d6b3m/
 ```
 
-The authors investigated the relationship between OC symptoms and transition uncertainty in a reversal learning task. Participants with higher OC symptoms exhibited increased transition uncertainty, as well as a pattern of behavior potentially indicative of a difficulty in relying on learned contingencies, with no evidence for perseverative behavior. 
+The authors investigated the relationship between OC symptoms and transition uncertainty in a reversal learning task. Participants with higher OC symptoms exhibited increased transition uncertainty, as well as a pattern of behavior potentially indicative of a difficulty in relying on learned contingencies, with no evidence for perseverative behavior.
 
 ---
 
@@ -127,6 +134,15 @@ Data repository: https://openneuro.org/datasets/ds000115/
 ```
 
 The authors assessed functional connectivity during rest and during three working memory loads of an N-back task (0-back, 1-back, 2-back) among: (1) individuals with schizophrenia (N = 19); (2) the siblings of individuals with schizophrenia (N = 28); (3) healthy controls (N = 10); and (4) the siblings of healthy controls (N = 17).
+
+### Albrecht et al. (2016)
+*Reduction of Pavlovian Bias in Schizophrenia: Enhanced Effects in Clozapine-Administered Patients*
+```
+Publication(s): https://doi.org/10.1371/journal.pone.0152781
+Data repository: https://zenodo.org/record/29601
+```
+
+45 patients with schizophrenia and 30 demographically-matched controls completed the Pavlovian instrumental transfer task. Patients demonstrated a reduction in Pavlovian performance bias that was evident in a reduced Go bias across the full group. In a subset of patients administered clozapine, the reduction in Pavlovian bias was enhanced.
 
 ---
 
