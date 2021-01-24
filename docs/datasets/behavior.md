@@ -171,6 +171,16 @@ Data repository: https://osf.io/4x3nf/
 ```
 Study of the behavior of patients with focal lesions to either basal ganglia or orbitofrontal cortex in a multi-strategy competitive game known to engage these regions. They find that whereas OFC patients are significantly impaired, BG patients show intact learning in the economic game. By contrast, when information about the strategic context is absent, both cohorts are significantly impaired.
 
+### Chambon et al. (2020)
+{: .no_toc }
+*Information about action outcomes differentially affects learning from self-determined versus imposed choices*
+```
+Publication(s): https://doi.org/10.1038/s41562-020-0919-5
+Data repository: https://github.com/spalminteri/agency
+```
+
+Data across four experiments investigating how learning rates change as a function of agency (free vs. fixed choice).
+
 ---
 
 ## Pavlovian Instrumental Transfer
