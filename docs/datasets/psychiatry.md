@@ -158,6 +158,18 @@ Data repository: https://zenodo.org/record/29601
 
 45 patients with schizophrenia and 30 demographically-matched controls completed the Pavlovian instrumental transfer task. Patients demonstrated a reduction in Pavlovian performance bias that was evident in a reduced Go bias across the full group. In a subset of patients administered clozapine, the reduction in Pavlovian bias was enhanced.
 
+### Reed et al. (2020)
+{: .no_toc }
+*Paranoia as a deficit in non-social belief updating*
+```
+Publication(s): https://elifesciences.org/articles/56345
+Data repository: https://senselab.med.yale.edu/ModelDB/showmodel.cshtml?model=258631
+```
+
+Data from 3 experiments on a 3-arm probabilistic reversal-learning paradigm. Includes questionnaires measuring paranoia and depression. 
+
+Requires accession code: p2c8q74m.
+
 ---
 
 ## Transdiagnostic
