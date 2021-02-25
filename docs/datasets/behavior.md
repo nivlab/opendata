@@ -181,6 +181,16 @@ Data repository: https://github.com/spalminteri/agency
 
 Data across four experiments investigating how learning rates change as a function of agency (free vs. fixed choice).
 
+### Tomov et al. (2021)
+{: .no_toc }
+*Multi-task reinforcement learning in humans*
+```
+Publication(s): https://doi.org/10.1038/s41562-020-01035-y
+Data repository: https://github.com/tomov/MTRL
+```
+
+Data from several hundred participants (across multiple experiments) in a reinforcement learning task with multiple goals and slowly changing rewards.
+
 ---
 
 ## Pavlovian Instrumental Transfer
