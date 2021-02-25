@@ -181,6 +181,16 @@ Data repository: https://github.com/spalminteri/agency
 
 Data across four experiments investigating how learning rates change as a function of agency (free vs. fixed choice).
 
+### Franklin & Frank (2020)
+{: .no_toc }
+*Generalizing to generalize: Humans flexibly switch between compositional and conjunctive structures during reinforcement learning*
+```
+Publication(s): https://doi.org/10.1371/journal.pcbi.1007720
+Data repository: https://github.com/nicktfranklin/GeneralizingToGeneralize
+```
+
+Data from several hundred participants in a task manipulating how policies generalize across different states. (Useful test-bed for CRP models.)
+
 ### Tomov et al. (2021)
 {: .no_toc }
 *Multi-task reinforcement learning in humans*
