@@ -247,6 +247,16 @@ Data repository: https://data.donders.ru.nl/collections/di/dccn/DSC_3017033.03_6
 
 34 participants on the Pavlovian Instrumental Transfer task.
 
+
+### Dorfman & Gershman (2019)
+{: .no_toc }
+*Controllability governs the balance between Pavlovian and instrumental action selection*
+```
+Publication(s): https://doi.org/10.1038/s41467-019-13737-7
+Data repository: https://github.com/sjgershm/GoNogo-control
+```
+Data from N=400 participants on a PIT task with varying levels of outcome controllability.
+
 ### Csifcsak et al. (2019)
 {: .no_toc }
 *Intermittent Absence of Control during Reinforcement Learning Interferes with Pavlovian Bias in Action Selection*
@@ -266,6 +276,7 @@ Data repository: https://osf.io/d6eqk/
 ```
 
 Data from 52 participants on a modified Pavlovian Instrumental Transfer task where control over outcomes (probability of reward) was modified in blocks over the course of the experiment. Pavlovian biases enhanced during low control blocks. Participants also undergoing tDCS stimulation.
+
 
 ---
 
