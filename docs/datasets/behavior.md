@@ -16,61 +16,7 @@ nav_order: 1
 
 ---
 
-## Decisions from Description
-
-### Glockner & Pachur (2012)
-{: .no_toc }
-*Cognitive models of risky choice: Parameter stability and predictive accuracy of prospect theory*
-```
-Publication(s): https://doi.org/10.1016/j.cognition.2011.12.002
-Data repository: https://osf.io/7khwj/
-```
-
-Choice data from 66 participants who completed two series of a gambles over a 1 week period. Suitable for studies of test-retest reliability.
-
-### Erev et al. (2017)
-{: .no_toc }
-*From anomalies to forecasts: Toward a descriptive model of decisions under risk, under ambiguity, and from experience.*
-```
-Publication(s): http://doi.org/10.1037/rev0000062
-Data repository: https://zenodo.org/record/845873#.WeDg9GhSw2x
-```
-
-The raw data from a choice prediction competition for decisions under risk, under ambiguity, and from experience. The data includes 510,750 consequential choices of human decision makers choosing between two risky and/or uncertain prospects with up to 10 possible outcomes each.
-
-### Frey et al. (2017)
-{: .no_toc }
-*Risk preference shares the psychometric structure of major psychological traits*
-```
-Publication(s): http://doi.org/10.1126/sciadv.1701381
-Data repository: https://osf.io/rce7g/
-```
-
-The dataset from the Basel-Berlin Risk Study involving the study of 1507 healthy adults completing 39 risk-taking measures, with a subsample of 109 participants completing a retest session after 6 months.
-
-### Wulff et al. (2018)
-{: .no_toc }
-*A meta-analytic review of two modes of learning and the description-experience gap.*
-```
-Publication(s): https://doi.org/10.1037/bul0000115
-Data repository: https://zenodo.org/record/1491449
-```
-
-The aggregated data from 28 publications of experiments studying decisions from description and experience.
-
-### Rutledge et al. (2021)
-{: .no_toc }
-*Risky decision and happiness task: The Great Brain Experiment smartphone app*
-```
-Publication(s): https://doi.org/10.1073/pnas.1407535111, https://doi.org/10.1016/j.cub.2016.05.017
-Data repository: https://doi.org/10.5061/dryad.prr4xgxkk
-```
-
-This resource consists of data from a risky decision and happiness task that was part of The Great Brain Experiment (GBE) smartphone app. Data were collected from 47,067 participants aged 18+ between March 8, 2013 and October 5, 2015. These anonymous unpaid participants completed the task a total of 91,058 times making approximately 2.7 million choices and 1.1 million happiness ratings in total. This resource represents at least 6,000 hours of task data. A subset of 1,858 participants also completed a depression questionnaire and answered five questions about their depression history.
-
----
-
-## Reinforcement Learning
+## Reinforcement Learning Potpourri
 
 ### Klein et al. (2017)
 {: .no_toc }
@@ -102,16 +48,6 @@ Data repository: https://doi.org/10.5061/dryad.14m41
 
 Data from 22 participants on the horizons task, which how individuals navigate the explore-exploit tradeoff. Participants were given atomoxetine, a norepinephrine transporter blocker. In line with predicitons, there was an effect of atomoxetine on random, but not directed exploration. However, contrary to expectations, atomoxetine reduced rather than increased random exploration.
 
-### Collins (2018)
-{: .no_toc }
-*The Tortoise and the Hare: Interactions between Reinforcement Learning and Working Memory*
-```
-Publication(s): https://doi.org/10.1162/jocn_a_01238
-Data repository: https://osf.io/5gbr3/
-```
-
-Data from 49 participants on a reinforcement learning task with a working memory component.
-
 ### Correa et al. (2018)
 {: .no_toc }
 *How the Level of Reward Awareness Changes the Computational and Electrophysiological Signatures of Reinforcement Learning*
@@ -121,16 +57,6 @@ Data repository: https://figshare.com/articles/Codes_and_Data_-_Correa_et_al_JNe
 ```
 
 A study investigating the effects of stimulus visibility on reward learning and choice.
-
-### Konstantinidis et al. (2018)
-{: .no_toc }
-*Magnitude and incentives: revisiting the overweighting of extreme events in risky decisions from experience*
-```
-Publication(s): https://doi.org/10.3758/s13423-017-1383-8
-Data repository: https://osf.io/z57tn/
-```
-
-Data from N=202 participants on a simple risky bandit task, which examined how the magnitude of prospective outcomes impacted risk preferences.
 
 ### Wu et al. (2018)
 {: .no_toc }
@@ -200,6 +126,40 @@ Data repository: https://github.com/tomov/MTRL
 ```
 
 Data from several hundred participants (across multiple experiments) in a reinforcement learning task with multiple goals and slowly changing rewards.
+
+---
+
+## Risk Sensitivity
+
+### Niv et al. (2012)
+{: .no_toc }
+*Neural prediction errors reveal a risk-sensitive reinforcement learning process in the human brain*
+```
+Publication(s): https://10.1523/JNEUROSCI.5498-10.2012
+Data repository: https://drive.google.com/file/d/1oHgOYjKdvLM_FMpgpJXa30wqwk_8qaE7/view
+```
+
+Data from 16 participants on a 2-arm bandit task measuring preferences between certain and risky reward options.
+
+### Konstantinidis et al. (2018)
+{: .no_toc }
+*Magnitude and incentives: revisiting the overweighting of extreme events in risky decisions from experience*
+```
+Publication(s): https://doi.org/10.3758/s13423-017-1383-8
+Data repository: https://osf.io/z57tn/
+```
+
+Data from N=202 participants on a simple risky bandit task, which examined how the magnitude of prospective outcomes impacted risk preferences.
+
+### Niv et al. (2020)
+{: .no_toc }
+*On the convergent validity of risk sensitivity measures*
+```
+Publication(s): https://psyarxiv.com/qdhx4
+Data repository: https://github.com/nivlab/RiskData
+```
+
+Data from 500+ participants on the Niv et al. (2012) risk sensitivity task, Holt & Laury gambles, and BIS/BAS questionnaire. 
 
 ---
 
@@ -315,3 +275,94 @@ Data repository: http://www.github.com/glamlab/gaze-bias-differences
 ```
 
 An investigation of the strength of the relationship between eye gaze and choice across four different simple choice experiments. They report that an association between gaze and choice is present for most individuals, but differs considerably in strength.
+
+---
+
+## Memory
+
+### Collins (2018)
+{: .no_toc }
+*The Tortoise and the Hare: Interactions between Reinforcement Learning and Working Memory*
+```
+Publication(s): https://doi.org/10.1162/jocn_a_01238
+Data repository: https://osf.io/5gbr3/
+```
+
+Data from 49 participants on a reinforcement learning task with a working memory component.
+
+### Rouhani et al. (2018)
+{: .no_toc }
+*Dissociable effects of surprising rewards on learning and memory*
+```
+Publications(s): http://dx.doi.org/10.1037/xlm0000518
+Data repository: https://nivlab.princeton.edu/sites/default/files/nivlab/files/rouhani2018_inddiff_allexps.csv
+                 https://nivlab.princeton.edu/sites/default/files/nivlab/files/rouhani2018_memory_allexps.csv
+                 https://nivlab.princeton.edu/sites/default/files/nivlab/files/rouhani2018_learning_allexps.csv
+                 https://nivlab.princeton.edu/sites/default/files/nivlab/files/rouhani2018_readme.rtf
+```
+
+Data from several hundred participants on a task probing the link between reward prediction errors and memory.
+
+### Jang et al. (2019)
+{: .no_toc }
+*Positive reward prediction errors during decision-making strengthen memory encoding*
+```
+Publication(s): https://doi.org/10.1038/s41562-019-0597-3
+Data repository: https://sites.brown.edu/mattlab/files/2019/06/jang2019_codeAndData.zip
+```
+
+Data from 287 participants on a task probing the link between reward prediction errors and memory.
+
+---
+
+## Decisions from Description
+
+### Glockner & Pachur (2012)
+{: .no_toc }
+*Cognitive models of risky choice: Parameter stability and predictive accuracy of prospect theory*
+```
+Publication(s): https://doi.org/10.1016/j.cognition.2011.12.002
+Data repository: https://osf.io/7khwj/
+```
+
+Choice data from 66 participants who completed two series of a gambles over a 1 week period. Suitable for studies of test-retest reliability.
+
+### Erev et al. (2017)
+{: .no_toc }
+*From anomalies to forecasts: Toward a descriptive model of decisions under risk, under ambiguity, and from experience.*
+```
+Publication(s): http://doi.org/10.1037/rev0000062
+Data repository: https://zenodo.org/record/845873#.WeDg9GhSw2x
+```
+
+The raw data from a choice prediction competition for decisions under risk, under ambiguity, and from experience. The data includes 510,750 consequential choices of human decision makers choosing between two risky and/or uncertain prospects with up to 10 possible outcomes each.
+
+### Frey et al. (2017)
+{: .no_toc }
+*Risk preference shares the psychometric structure of major psychological traits*
+```
+Publication(s): http://doi.org/10.1126/sciadv.1701381
+Data repository: https://osf.io/rce7g/
+```
+
+The dataset from the Basel-Berlin Risk Study involving the study of 1507 healthy adults completing 39 risk-taking measures, with a subsample of 109 participants completing a retest session after 6 months.
+
+### Wulff et al. (2018)
+{: .no_toc }
+*A meta-analytic review of two modes of learning and the description-experience gap.*
+```
+Publication(s): https://doi.org/10.1037/bul0000115
+Data repository: https://zenodo.org/record/1491449
+```
+
+The aggregated data from 28 publications of experiments studying decisions from description and experience.
+
+### Rutledge et al. (2021)
+{: .no_toc }
+*Risky decision and happiness task: The Great Brain Experiment smartphone app*
+```
+Publication(s): https://doi.org/10.1073/pnas.1407535111, https://doi.org/10.1016/j.cub.2016.05.017
+Data repository: https://doi.org/10.5061/dryad.prr4xgxkk
+```
+
+This resource consists of data from a risky decision and happiness task that was part of The Great Brain Experiment (GBE) smartphone app. Data were collected from 47,067 participants aged 18+ between March 8, 2013 and October 5, 2015. These anonymous unpaid participants completed the task a total of 91,058 times making approximately 2.7 million choices and 1.1 million happiness ratings in total. This resource represents at least 6,000 hours of task data. A subset of 1,858 participants also completed a depression questionnaire and answered five questions about their depression history.
