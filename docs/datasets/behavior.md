@@ -151,7 +151,7 @@ Data repository: https://osf.io/z57tn/
 
 Data from N=202 participants on a simple risky bandit task, which examined how the magnitude of prospective outcomes impacted risk preferences.
 
-### Niv et al. (2020)
+### Radulescu et al. (2020)
 {: .no_toc }
 *On the convergent validity of risk sensitivity measures*
 ```
