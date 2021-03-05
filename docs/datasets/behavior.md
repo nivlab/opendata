@@ -313,6 +313,16 @@ Data repository: https://sites.brown.edu/mattlab/files/2019/06/jang2019_codeAndD
 
 Data from 287 participants on a task probing the link between reward prediction errors and memory.
 
+### Rouhani & Niv (2021)
+{: .no_toc }
+*Signed and unsigned reward prediction errors dynamically enhance learning and memory*
+```
+Publication(s): https://elifesciences.org/articles/61077
+Data repository: https://github.com/ninarouhani/2021_RouhaniNiv
+```
+
+Data from 500 participants on a task probing the link between reward prediction errors and memory.
+
 ---
 
 ## Decisions from Description
