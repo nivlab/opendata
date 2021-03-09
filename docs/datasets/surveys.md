@@ -8,6 +8,16 @@ nav_order: 3
 # Surveys
 {: .no_toc }
 
+### Bottesi et al. (2019)
+{: .no_toc }
+*Seeking certainty about Intolerance of Uncertainty: Addressing old and new issues through the Intolerance of Uncertainty Scale-Revised*
+```
+Publication(s): https://doi.org/10.1371/journal.pone.0211929
+Data repository: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0211929#sec016
+Sample size: N = 924
+Surveys included: Intolerance of Uncertainty Scale-Revised, Obsessive Beliefs Questionnaire-87, Negative Problem Orientation Questionnaire, Penn State Worry Questionnaire, Beck Anxiety Inventory, Beck Depression Inventory-II, Depression Anxiety Stress Scales-21, Obsessive Compulsive Inventory-Revised, Social Phobia Scale
+```
+
 ### Conway et al. (2020)
 {: .no_toc }
 *A Meta-Structural Model of Common Clinical Disorder and Personality Disorder Symptoms*
