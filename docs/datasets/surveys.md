@@ -18,4 +18,12 @@ Sample size: N = 1144
 Surveys included: Inventory of Depression and Anxiety (IDAS), Externalizing Spectrum Inventory (ESI), Personality Inventory for DSM-5 (PID-5)
 ```
 
-The data from 75 participants in a 2-arm bandit task with novel choice contexts introduced throughout the task. Behavior on the task shows agents learn how good an option is relative to an option with which it had previously been paired.
+### Funkhouser et al. (2020)
+{: .no_toc }
+*The Replicability and Generalizability of Internalizing Symptom Networks Across Five Samples*
+```
+Publication(s): https://dx.doi.org/10.1037%2Fabn0000496
+Data repository: https://osf.io/k7yuz/
+Sample size: N = 2573
+Surveys included: Inventory of Depression and Anxiety (IDAS)
+```
