@@ -38,6 +38,16 @@ Sample size: N = 2573
 Surveys included: Inventory of Depression and Anxiety (IDAS)
 ```
 
+### Latzman et al. (2020)
+{: .no_toc }
+*Locating psychopathy within the domain space of personality pathology*
+```
+Publication(s): https://doi.org/10.1016/j.paid.2020.110124
+Data repository: https://osf.io/spufc/
+Sample size: N = 749
+Surveys included: Personality Inventory for DSM-5 (PID-5), PsychopathicPersonality Inventory - Triarchic Scales (PPI-Tri), Inventory of Callous-Unemotional Traits (ICU)
+```
+
 ### Maza et al. (2020)
 {: .no_toc }
 *Correlation Database of 60 Cross-Disciplinary Surveys and Cognitive Tasks Assessing Self-Regulation*
