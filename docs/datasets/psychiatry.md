@@ -243,3 +243,13 @@ Data repository: https://osf.io/b95w2/
 ```
 
 400 subjects completed a novel online game-based aversive learning task, requiring avoidance of negative outcomes, in conjunction with completing measures of common psychiatric symptoms. State anxiety and a transdiagnostic compulsivity-related factor were associated with enhanced learning from safety.
+
+### Pool et al. (2021)
+{: .no_toc }
+*Determining the effects of training duration on the behavioral expression of habitual control in humans: a multi-laboratory investigation*
+```
+Publication(s): https://psyarxiv.com/z756h/
+Data repository: https://github.com/evapool/MULTILAB_HABIT
+```
+
+Multi-lab investigation of habit formation and expression in an outcome devaluation task with overtraining. N=300 participants with multiple questionnaires collected (depression, compulsivity, impulsivity, stress).
