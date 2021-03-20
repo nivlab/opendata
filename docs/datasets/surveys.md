@@ -80,6 +80,7 @@ Surveys included: Maltreatment and Abuse Chronology of Exposure (MACE) scale, Ad
 
 ### Fosse et al. (2020)
 {: .no_toc }
+*Measuring childhood maltreatment: Psychometric properties of the Norwegian version of the Maltreatment and Abuse Chronology of Exposure (MACE) scale*
 ```
 Publication(s): https://doi.org/10.1371/journal.pone.0229661
 Data repository: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0229661#sec034
