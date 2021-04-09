@@ -16,7 +16,7 @@ nav_order: 1
 
 ---
 
-## Reinforcement Learning Potpourri
+## Reinforcement Learning (Unsorted)
 
 ### Klein et al. (2017)
 {: .no_toc }
@@ -322,6 +322,20 @@ Data repository: https://github.com/ninarouhani/2021_RouhaniNiv
 ```
 
 Data from 500 participants on a task probing the link between reward prediction errors and memory.
+
+---
+
+## Metacognition
+
+### Rahnev et al. (202)
+{: .no_toc }
+*The Confidence Database*
+```
+Publication(s): https://doi.org/10.1038/s41562-019-0813-1
+Data repository: https://osf.io/s46pr/
+```
+
+At the time of publication, the Confidence Database contained 145 datasets with data from more than 8,700 participants and almost 4 million trials.
 
 ---
 
