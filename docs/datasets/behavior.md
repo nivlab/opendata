@@ -78,6 +78,16 @@ Data repository: https://openneuro.org/datasets/ds001590
 
 The behavior and fMRI data from 32 participants who performed a configural reinforcement learning task.
 
+### McDonald et al. (2019)
+{: .no_toc }
+*Bayesian nonparametric models characterize instantaneous strategies in a competitive dynamic game*
+```
+Publication(s): https://doi.org/10.1038/s41467-019-09789-4
+Data repository: https://osf.io/evfg5/
+```
+
+Data from N=82 participants on a complex multiplayer "penalty shot" game.
+
 ### Moran et al. (2019)
 {: .no_toc }
 *Retrospective Model-Based inference Guides Model-Free Credit Assignment*
