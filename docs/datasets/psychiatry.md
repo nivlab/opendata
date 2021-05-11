@@ -253,3 +253,13 @@ Data repository: https://github.com/evapool/MULTILAB_HABIT
 ```
 
 Multi-lab investigation of habit formation and expression in an outcome devaluation task with overtraining. N=300 participants with multiple questionnaires collected (depression, compulsivity, impulsivity, stress).
+
+### Zorowitz et al. (2021)
+{: .no_toc }
+Inattentive responding can induce spurious associations between task behavior and symptom measures
+```
+Publication(s): https://psyarxiv.com/rynhk/
+Data repository: https://github.com/nivlab/sciops
+```
+
+Data from N=386 participants on a 3-arm probabalistic reversal learning task. Includes five self-report questionnaires assaying mania, depression, and anxiety.
