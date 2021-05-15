@@ -38,16 +38,6 @@ Data repository: https://figshare.com/articles/dataset/Behavioral_data_and_data_
 
 The behavior from 85 participants who performed a simple 2-arm bandit task.
 
-### Warren et al. (2017)
-{: .no_toc }
-*The effect of atomoxetine on random and directed exploration in humans*
-```
-Publication(s): https://doi.org/10.1371/journal.pone.0176034
-Data repository: https://doi.org/10.5061/dryad.14m41
-```
-
-Data from 22 participants on the horizons task, which how individuals navigate the explore-exploit tradeoff. Participants were given atomoxetine, a norepinephrine transporter blocker. In line with predicitons, there was an effect of atomoxetine on random, but not directed exploration. However, contrary to expectations, atomoxetine reduced rather than increased random exploration.
-
 ### Correa et al. (2018)
 {: .no_toc }
 *How the Level of Reward Awareness Changes the Computational and Electrophysiological Signatures of Reinforcement Learning*
@@ -57,16 +47,6 @@ Data repository: https://figshare.com/articles/Codes_and_Data_-_Correa_et_al_JNe
 ```
 
 A study investigating the effects of stimulus visibility on reward learning and choice.
-
-### Wu et al. (2018)
-{: .no_toc }
-*Generalization guides human exploration in vast decision spaces*
-```
-Publication(s): https://doi.org/10.1038/s41562-018-0467-4
-Data repository: https://github.com/charleywu/gridsearch
-```
-
-Study of human exploration in environments with spatially correlated patterns of rewards.
 
 ### Ballard et al. (2019)
 {: .no_toc }
@@ -136,6 +116,41 @@ Data repository: https://github.com/tomov/MTRL
 ```
 
 Data from several hundred participants (across multiple experiments) in a reinforcement learning task with multiple goals and slowly changing rewards.
+
+---
+
+## Exploration / Exploitation
+
+### Warren et al. (2017)
+{: .no_toc }
+*The effect of atomoxetine on random and directed exploration in humans*
+```
+Publication(s): https://doi.org/10.1371/journal.pone.0176034
+Data repository: https://doi.org/10.5061/dryad.14m41
+```
+
+Data from 22 participants on the horizons task, which how individuals navigate the explore-exploit tradeoff. Participants were given atomoxetine, a norepinephrine transporter blocker. In line with predicitons, there was an effect of atomoxetine on random, but not directed exploration. However, contrary to expectations, atomoxetine reduced rather than increased random exploration.
+
+### Wu et al. (2018)
+{: .no_toc }
+*Generalization guides human exploration in vast decision spaces*
+```
+Publication(s): https://doi.org/10.1038/s41562-018-0467-4
+Data repository: https://github.com/charleywu/gridsearch
+```
+
+Study of human exploration in environments with spatially correlated patterns of rewards.
+
+### Zaller et al. (2021)
+{: .no_toc }
+*Information Seeking on the Horizons Task Does Not Predict Anxious Symptomatology*
+
+```
+Publication(s): https://doi.org/10.1016/j.biopsych.2021.02.550
+Data repository: https://github.com/nivlab/opendata/blob/docs/datasets/ZallerZN2021/README.md
+```
+
+Data from N=99 participants on a modified online version of the horizons task.
 
 ---
 
@@ -217,7 +232,6 @@ Data repository: https://data.donders.ru.nl/collections/di/dccn/DSC_3017033.03_6
 
 34 participants on the Pavlovian Instrumental Transfer task.
 
-
 ### Dorfman & Gershman (2019)
 {: .no_toc }
 *Controllability governs the balance between Pavlovian and instrumental action selection*
@@ -246,7 +260,6 @@ Data repository: https://osf.io/d6eqk/
 ```
 
 Data from 52 participants on a modified Pavlovian Instrumental Transfer task where control over outcomes (probability of reward) was modified in blocks over the course of the experiment. Pavlovian biases enhanced during low control blocks. Participants also undergoing tDCS stimulation.
-
 
 ---
 
@@ -337,7 +350,7 @@ Data from 500 participants on a task probing the link between reward prediction 
 
 ## Metacognition
 
-### Rahnev et al. (202)
+### Rahnev et al. (2020)
 {: .no_toc }
 *The Confidence Database*
 ```
