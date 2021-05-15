@@ -147,7 +147,7 @@ Study of human exploration in environments with spatially correlated patterns of
 
 ```
 Publication(s): https://doi.org/10.1016/j.biopsych.2021.02.550
-Data repository: https://github.com/nivlab/opendata/blob/docs/datasets/ZallerZN2021/README.md
+Data repository: https://github.com/nivlab/opendata/tree/docs/assets/datasets/ZallerZN2021/README.md
 ```
 
 Data from N=99 participants on a modified online version of the horizons task.
@@ -184,7 +184,7 @@ Publication(s): https://psyarxiv.com/qdhx4
 Data repository: https://github.com/nivlab/RiskData
 ```
 
-Data from 500+ participants on the Niv et al. (2012) risk sensitivity task, Holt & Laury gambles, and BIS/BAS questionnaire. 
+Data from 500+ participants on the Niv et al. (2012) risk sensitivity task, Holt & Laury gambles, and BIS/BAS questionnaire.
 
 ---
 
