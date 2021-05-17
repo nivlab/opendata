@@ -110,6 +110,15 @@ Data repository: https://openneuro.org/datasets/ds001784
 ```
 The authors show that DBS' effect is explained in part by enhancement of PFC-driven cognitive control. DBS improves human subjects' performance on a cognitive control task and increases theta (5–8Hz) oscillations in both medial and lateral PFC. The theta increase predicts subjects' clinical outcomes.
 
+### Pederson et al. (2021)
+{: .no_toc }
+*Computational phenotyping of brain-behavior dynamics underlying approach-avoidance conflict in major depressive disorder*
+```
+Publication(s): https://doi.org/10.1371/journal.pcbi.1008955
+Data repository: https://github.com/madslupe/AAC_DDM_MDD/
+```
+N=21 MDD patients and N=35 age-matched healthy controls in an approach-avoidance task.
+
 ---
 
 ## Obsessive-Compulsive Disorder
