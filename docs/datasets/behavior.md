@@ -117,6 +117,15 @@ Data repository: https://github.com/tomov/MTRL
 
 Data from several hundred participants (across multiple experiments) in a reinforcement learning task with multiple goals and slowly changing rewards.
 
+### Bavard et al. (2021)
+{: .no_toc }
+*Two sides of the same coin: Beneficial and detrimental consequences of range adaptation in human reinforcement learning*
+```
+Publication(s): https://doi.org/10.1126/sciadv.abe0340
+Data repository: https://github.com/hrl-team/range
+```
+N=800 participants on a reinforcement learning task involving range adaptation.
+
 ---
 
 ## Exploration / Exploitation
