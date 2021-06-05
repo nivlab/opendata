@@ -270,6 +270,16 @@ Data repository: https://osf.io/d6eqk/
 
 Data from 52 participants on a modified Pavlovian Instrumental Transfer task where control over outcomes (probability of reward) was modified in blocks over the course of the experiment. Pavlovian biases enhanced during low control blocks. Participants also undergoing tDCS stimulation.
 
+### Raab & Hartley (2020)
+{: .no_toc }
+Adolescents exhibit reduced Pavlovian biases on instrumental learning
+```
+Publication(s): https://doi.org/10.1038/s41598-020-72628-w
+Data repository: https://osf.io/4h6ne/
+```
+
+Data from 61 participants, consisting of 20 children (8–12 years old), 20 adolescents (13–17 years old), and 21 adults (18–25 years old) on the valenced Go/No-Go task.
+
 ---
 
 ## Development
