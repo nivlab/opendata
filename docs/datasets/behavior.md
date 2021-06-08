@@ -161,6 +161,17 @@ Data repository: https://github.com/nivlab/opendata/tree/docs/datasets/ZallerZN2
 
 Data from N=99 participants on a modified online version of the horizons task.
 
+### van Dooren et al. (2021)
+{: .no_toc }
+*The exploration-exploitation trade-off in a foraging task is affected by mood-related arousal and valence*
+
+```
+Publication(s): https://doi.org/10.3758/s13415-021-00917-6
+Data repository: https://osf.io/skh5y/
+```
+
+Data from N=119 participants playing a patch foraging task with mood ratings.
+
 ---
 
 ## Risk Sensitivity
