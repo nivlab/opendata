@@ -126,6 +126,16 @@ Data repository: https://github.com/hrl-team/range
 ```
 N=800 participants on a reinforcement learning task involving range adaptation.
 
+#### Jean-Richard-dit-Bressel (2021)
+{: .no_toc }
+*Punishment insensitivity in humans is due to failures in instrumental contingency learning*
+```
+Publication(s): https://doi.org/10.7554/eLife.69594
+Data repository: https://osf.io/n7sdg/
+```
+
+Data from N=135 on a gamified instrumental contingency learning task involving avoidable punishments.
+
 ---
 
 ## Exploration / Exploitation
