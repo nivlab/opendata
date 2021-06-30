@@ -38,6 +38,16 @@ Data repository: https://figshare.com/articles/dataset/Behavioral_data_and_data_
 
 The behavior from 85 participants who performed a simple 2-arm bandit task.
 
+### Turi et al. (2017)
+{: .no_toc }
+*Placebo Intervention Enhances Reward Learning in Healthy Individuals*
+```
+Publication(s): https://doi.org/10.1038/srep41028
+Data repository: https://github.com/ihrke/2016-placebo-tdcs-study
+```
+
+This dataset contains three repeated measures of a standard reward-based reinforcement-learning task from 29 healthy male individuals who participated in three experimental sessions exploring cognitive placebo effects on reward learning.
+
 ### Correa et al. (2018)
 {: .no_toc }
 *How the Level of Reward Awareness Changes the Computational and Electrophysiological Signatures of Reinforcement Learning*
