@@ -38,6 +38,16 @@ Data repository: https://figshare.com/articles/dataset/Behavioral_data_and_data_
 
 The behavior from 85 participants who performed a simple 2-arm bandit task.
 
+### Palminteri et al. (2017)
+{: .no_toc }
+*Confirmation bias in human reinforcement learning: Evidence from counterfactual feedback processing*
+```
+Publication(s): https://doi.org/10.1038/s41562-017-0067
+Data repository: https://dx.doi.org/10.6084/m9.figshare.4265408
+```
+
+Data from N=40 participants who completed a 2-arm bandit task with and without counterfactual feedback.
+
 ### Turi et al. (2017)
 {: .no_toc }
 *Placebo Intervention Enhances Reward Learning in Healthy Individuals*
