@@ -146,6 +146,16 @@ Data repository: https://osf.io/n7sdg/
 
 Data from N=135 on a gamified instrumental contingency learning task involving avoidable punishments.
 
+### Waltmann et al. (2021)
+{: .no_toc }
+*Sufficient Reliability of the Behavioral and Computational Read-Outs of a Probabilistic Reversal Learning Task*
+```
+Publications(s): https://psyarxiv.com/sde3g/
+Data repository: https://osf.io/4ng3e/
+```
+
+Data from N=40 healthy subjects who completed a probabilistic reversal learning task (PRLT) twice.
+
 ---
 
 ## Exploration / Exploitation
