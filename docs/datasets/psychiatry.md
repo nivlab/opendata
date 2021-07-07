@@ -87,6 +87,16 @@ Data repository: https://osf.io/b4qkp/
 
 In the study, both a state anxious and a control group learned probabilistic stimulus-outcome mappings in a volatile task environment while the authors recorded their electrophysiological (EEG) signals. State anxiety was associated with an underestimation of environmental and informational uncertainty, and an increase in uncertainty about volatility estimates.
 
+### Hunter et al. (2021)
+{: .no_toc }
+*Excessive deliberation in social anxiety*
+```
+Publications(s): https://www.biorxiv.org/content/10.1101/522433v1.abstract
+Data repository: https://github.com/ndawlab/patentrace
+```
+
+Data from N=741 general population participants in a socially framed reinforcement learning task (the Patent Race game). Self-reported social anxiety was associated with an increase in deliberative evaluation during the game.
+
 ---
 
 ## Depression
@@ -100,6 +110,16 @@ Data repository: https://bit.ly/2F11Zwv
 ```
 
 Highly symptomatic depressed individuals (N = 46) completed a probabilistic learning task with concurrent EEG. Measures of anxiety and depression symptomatology were significantly correlated with each other; however, only anxiety predicted better avoidance learning due to a tighter coupling of negative prediction error signaling with punishment-specific EEG features. In contrast, depression predicted a smaller reward-related EEG feature, but this did not affect prediction error coupling or the ability to learn from reward.
+
+### Safra et al. (2019)
+{: .no_toc }
+*Depressive symptoms are associated with blunted reward learning in social contexts*
+```
+Publication(s): https://doi.org/10.1371/journal.pcbi.1007224
+Data repository: https://doi.org/10.6084/m9.figshare.8199293
+```
+
+Data from N=200 participants who took part in an experiment involving reward learning in contexts with different levels of social information (absent, partial and complete). Behavioral analyses revealed a specific detrimental effect of depressive symptoms (but not anxiety) on behavioral performance in the presence of social information, i.e. when participants were informed about the choices of another player.
 
 ### Widge et al. (2019)
 {: .no_toc }
