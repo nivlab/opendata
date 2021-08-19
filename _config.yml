@@ -19,7 +19,16 @@ baseurl: "/opendata" # the subpath of your site, e.g. /blog
 url: "https://nivlab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
-exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile", "datasets/"]
+exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile", "docs/tests/", "datasets/"]
+
+# Regression tests
+# By default, the pages in /docs/tests are excluded when the ste is built.
+# To include them, comment-out the relevant line above.
+# Uncommenting the following line doesn't work - see https://github.com/jekyll/jekyll/issues/4791
+# include: ["docs/tests/"]
+
+# Set a path/url to a logo that will be displayed instead of the title
+#logo: "/assets/images/just-the-docs.png"
 
 # Enable or disable the site search
 # Supports true (default) or false
@@ -76,15 +85,18 @@ footer_content: "Copyright &copy; 2019-2021 Niv Lab. Distributed by an <a href=\
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
 last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
 
+
+
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Edit this page on GitHub"
 gh_edit_repository: "https://github.com/nivlab/opendata" # the github URL for your repo
 gh_edit_branch: "docs" # the branch that your docs is served from
+# gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
 
 # Color scheme currently only supports "dark", "light"/nil (default), or a custom scheme that you define
-color_scheme: "nivturk"
+color_scheme: opendata
 
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
@@ -94,6 +106,11 @@ color_scheme: "nivturk"
 plugins:
   - jekyll-seo-tag
 
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+
 compress_html:
   clippings: all
   comments: all
@@ -101,3 +118,5 @@ compress_html:
   startings: []
   blanklines: false
   profile: false
+  # ignore:
+  #   envs: all
