@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Surveys
+title: Self-report
 parent: Datasets
 nav_order: 3
 ---
