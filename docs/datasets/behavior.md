@@ -335,6 +335,36 @@ Data from 61 participants, consisting of 20 children (8–12 years old), 20 adol
 
 ## Development
 
+### Decker et al. (2016)
+{: .no_toc }
+*From Creatures of Habit to Goal-Directed Learners: Tracking the Developmental Emergence of Model-Based Reinforcement Learning*
+```
+Publication(s): https://doi.org/10.1177/0956797616639301
+Data repository: https://github.com/hartleylabnyu/online_two_step_replication/tree/master/analysis_code_and_data/data/decker
+```
+
+Two-step task data in children, adolescents, and adults.
+
+### Potter et al. (2017)
+{: .no_toc }
+*Cognitive components underpinning the development of model-based learning*
+```
+Publication(s): https://doi.org/10.1016/j.dcn.2016.10.005
+Data repository: https://github.com/hartleylabnyu/online_two_step_replication/tree/master/analysis_code_and_data/data/potter
+```
+
+Two-step task data in children, adolescents, and adults.
+
+### Nussenbaum et al. (2020)
+{: .no_toc }
+*Moving Developmental Research Online: Comparing In-Lab and Web-Based Studies of Model-Based Reinforcement Learning*
+```
+Publication(s): https://doi.org/10.1525/collabra.17213
+Data repository: https://github.com/hartleylabnyu/online_two_step_replication
+```
+
+Two-step task data in children, adolescents, and adults.
+
 ### Bach et al. (2020)
 {: .no_toc }
 *Predictors of risky foraging behaviour in healthy young people*
