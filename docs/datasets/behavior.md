@@ -434,8 +434,8 @@ Data repository: https://osf.io/fdcvw/
 Data from eight experiments testing latent cause inference in a social domain.
 
 ### Heffner et al. (2021)
-*Emotion prediction errors guide socially adaptive behaviour*
 {: .no_toc }
+*Emotion prediction errors guide socially adaptive behaviour*
 ```
 Publication(s): https://doi.org/10.1038/s41562-021-01213-6
 Data repository: https://github.com/jpheffne/epe
@@ -444,8 +444,8 @@ Data repository: https://github.com/jpheffne/epe
 Data from N=1006 participants across four studies testing the impact of emotion prediction errors on choice in a social decision making task.
 
 ### van Baar et al. (2021)
-*Latent motives guide structure learning during adaptive social choice*
 {: .no_toc }
+*Latent motives guide structure learning during adaptive social choice*
 ```
 Publication(s): https://doi.org/10.1038/s41562-021-01207-4
 Data repository: https://github.com/jeroenvanbaar/NHB_motives_structure
