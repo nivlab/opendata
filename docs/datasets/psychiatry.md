@@ -97,6 +97,17 @@ Data repository: https://github.com/ndawlab/patentrace
 
 Data from N=741 general population participants in a socially framed reinforcement learning task (the Patent Race game). Self-reported social anxiety was associated with an increase in deliberative evaluation during the game.
 
+### Fan et al. (2021)
+*Trait Somatic Anxiety is Associated With Reduced Directed Exploration and Underestimation of Uncertainty*
+{: .no_toc }
+*Excessive deliberation in social anxiety*
+```
+Publications(s): https://psyarxiv.com/yx6sb/
+Data repository: https://osf.io/y6urc/
+```
+
+Data from two online studies (N = 984) investigating exploration strategies with respect to trait anxiety.
+
 ---
 
 ## Autism Spectrum Disorder
@@ -209,7 +220,7 @@ Publication(s): https://elifesciences.org/articles/56345
 Data repository: https://senselab.med.yale.edu/ModelDB/showmodel.cshtml?model=258631
 ```
 
-Data from 3 experiments on a 3-arm probabilistic reversal-learning paradigm. Includes questionnaires measuring paranoia and depression. 
+Data from 3 experiments on a 3-arm probabilistic reversal-learning paradigm. Includes questionnaires measuring paranoia and depression.
 
 Requires accession code: p2c8q74m.
 

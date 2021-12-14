@@ -166,6 +166,16 @@ Data repository: https://osf.io/4ng3e/
 
 Data from N=40 healthy subjects who completed a probabilistic reversal learning task (PRLT) twice.
 
+### Sugawara & Katahira (2021)
+{: .no_toc }
+*Dissociation between asymmetric value updating and perseverance in human reinforcement learning*
+```
+Publications(s): https://doi.org/10.1038/s41598-020-80593-7
+Data repository: https://figshare.com/articles/Cognitive_bias_and_perseverance/10042319
+```
+
+Data from N=150 participants on a series of 2-arm bandit tasks involving different reward probabilities and feedback (factual, counterfactual).
+
 ---
 
 ## Exploration / Exploitation
@@ -399,6 +409,51 @@ Data repository: http://www.github.com/glamlab/gaze-bias-differences
 
 An investigation of the strength of the relationship between eye gaze and choice across four different simple choice experiments. They report that an association between gaze and choice is present for most individuals, but differs considerably in strength.
 
+### Bennett, Radulescu et al. (2021)
+{: .no_toc }
+*Affect-congruent attention drives changes in reward expectations*
+```
+Publication(s): https://psyarxiv.com/vu2cw/
+Data repository: https://osf.io/egw5c/
+```
+
+Data from N=120 participants on a compound generalization task with mood inductions and eye-tracking.
+
+---
+
+## Social cognition
+
+### Shin & Niv (2021)
+{: .no_toc }
+*Biased evaluations emerge from inferring hidden causes*
+```
+Publication(s): https://doi.org/10.1038/s41562-021-01065-0
+Data repository: https://osf.io/fdcvw/
+```
+
+Data from eight experiments testing latent cause inference in a social domain.
+
+### Heffner et al. (2021)
+*Emotion prediction errors guide socially adaptive behaviour*
+{: .no_toc }
+```
+Publication(s): https://doi.org/10.1038/s41562-021-01213-6
+Data repository: https://github.com/jpheffne/epe
+```
+
+Data from N=1006 participants across four studies testing the impact of emotion prediction errors on choice in a social decision making task.
+
+### van Baar et al. (2021)
+*Latent motives guide structure learning during adaptive social choice*
+{: .no_toc }
+```
+Publication(s): https://doi.org/10.1038/s41562-021-01207-4
+Data repository: https://github.com/jeroenvanbaar/NHB_motives_structure
+```
+
+Data from four experiments (N = 501) where in participants predicted other players’ decisions across four economic games, each with different social tensions (for example, Prisoner’s Dilemma and Stag Hunt).
+
+
 ---
 
 ## Memory
@@ -523,3 +578,13 @@ Data repository: https://github.com/jcpeterson/choices13k
 ```
 
 The choices13k dataset contains human decision rates on 13,006 risky choice problems.
+
+### Bertram et al. (2021)
+{: .no_toc }
+*Subjective probability is modulated by emotions*
+```
+Publication(s): https://psyarxiv.com/rbacu/
+Data repository: https://osf.io/9crq6/?view_only=80f45d9c41de4e5cbd69c11f462441f5
+```
+
+Data from two experiments (N = 162; N = 119) measuring the effecst of emotional dominance on probability estimates.
