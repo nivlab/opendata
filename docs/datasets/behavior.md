@@ -355,6 +355,16 @@ Data repository: https://github.com/hartleylabnyu/online_two_step_replication/tr
 
 Two-step task data in children, adolescents, and adults.
 
+### Palminteri et al. (2016)
+{: .no_toc }
+*The Computational Development of Reinforcement Learning during Adolescence*
+```
+Publication(s): https://doi.org/10.1371/journal.pcbi.1004953
+Data repository: https://figshare.com/articles/dataset/Behavioural_data_from_adults_and_adolescents_as_well_as_demographics_/3398056/1
+```
+
+A study of adolescents (N=26; 12–17 years) and adults (N=24; 18–32 years) in a 2-arm bandit task involving factual and counterfactual learning.
+
 ### Potter et al. (2017)
 {: .no_toc }
 *Cognitive components underpinning the development of model-based learning*
@@ -422,6 +432,16 @@ Data from N=120 participants on a compound generalization task with mood inducti
 ---
 
 ## Social cognition
+
+### Najar et al. (2020)
+{: .no_toc }
+*The actions of others act as a pseudo-reward to drive imitation in the context of social reinforcement learning*
+```
+Publication(s): https://doi.org/10.1371/journal.pbio.3001028
+Data repository: https://github.com/hrl-team/mfree_imitation
+```
+
+Data from three experiments (N=24, N=44, N=302) investigating the computational mechanisms underlying adaptive imitation in human reinforcement learning.
 
 ### Shin & Niv (2021)
 {: .no_toc }
