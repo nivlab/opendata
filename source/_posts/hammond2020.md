@@ -1,9 +1,11 @@
 ---
 title: Hammond et al. (2020)
-date: 2020/01/01
-categories:
-
+date: 2020/12/15
 tags:
+- 2-arm bandit
+- volatility
+- anxiety
+- depression
 ---
 
 #### Anxiety and Depression Related Abnormalities in Socio-affective Learning
@@ -11,4 +13,4 @@ tags:
 Publication(s): https://psyarxiv.com/tg3ec
 Data repository: https://osf.io/quy76/
 
-N=195 participants (across two samples) completed a 2-arm bandit task with volatility.
+Data from a study in which N=125 participants across two experiments (N=76, N=49) completed a probabilistic volatility task and a series of self-report psychiatric symptom measures.

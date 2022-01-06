@@ -2,7 +2,7 @@
 title: Najar et al. (2020)
 date: 2020/01/01
 tags:
-- social
+- social decision making
 ---
 
 #### The actions of others act as a pseudo-reward to drive imitation in the context of social reinforcement learning

@@ -1,14 +1,14 @@
 ---
 title: Hunter et al. (2021)
-date: 2021/01/01
+date: 2021/08/16
 tags:
 - economic game
 - anxiety
 ---
 
-#### Excessive deliberation in social anxiety
+#### Increased and biased deliberation in social anxiety
 
-Publications(s): https://www.biorxiv.org/content/10.1101/522433v1.abstract
+Publications(s): https://doi.org/10.1038/s41562-021-01180-y
 Data repository: https://github.com/ndawlab/patentrace
 
-Data from N=741 general population participants in a socially framed reinforcement learning task (the Patent Race game). Self-reported social anxiety was associated with an increase in deliberative evaluation during the game.
+Data from a study in which N=741 participants completed an economic game (patent race) involving planning and measures of anxiety.
