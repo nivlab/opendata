@@ -3,7 +3,7 @@ title: Palminteri et al. (2017)
 date: 2017/08/11
 tags:
 - 2-arm bandit
-- counterfactual
+- counterfactual feedback
 - confirmation bias
 
 ---

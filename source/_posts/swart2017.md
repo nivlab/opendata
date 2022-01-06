@@ -2,7 +2,7 @@
 title: Swart et al. (2017)
 date: 2017/01/01
 tags:
-- pavlovian instrumental transfer
+- pavlovian go/no-go task
 ---
 
 #### Catecholaminergic challenge uncovers distinct Pavlovian and instrumental mechanisms of motivated (in)action

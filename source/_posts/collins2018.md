@@ -1,6 +1,6 @@
 ---
 title: Collins (2018)
-date: 2018/01/01
+date: 2018/10/01
 tags:
 - working memory
 ---
@@ -10,4 +10,4 @@ tags:
 Publication(s): https://doi.org/10.1162/jocn_a_01238
 Data repository: https://osf.io/5gbr3/
 
-Data from 49 participants on a reinforcement learning task with a working memory component.
+Data from a study in which N=49 participants completed a reinforcement learning task with working memory demands.

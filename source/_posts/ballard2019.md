@@ -11,4 +11,4 @@ tags:
 Publication(s): https://doi.org/10.1038/s41467-019-08998-1
 Data repository: https://openneuro.org/datasets/ds001590
 
-The behavior and fMRI data from 32 participants who performed a configural reinforcement learning task.
+Data for a study in which N=32 participants completed a target detection task involving configural learning.

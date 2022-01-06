@@ -2,7 +2,7 @@
 title: Swart et al. (2018)
 date: 2018/01/01
 tags:
-- pavlovian instrumental transfer
+- pavlovian go/no-go task
 ---
 
 #### Frontal network dynamics reflect neurocomputational mechanisms for reducing maladaptive biases in motivated action
