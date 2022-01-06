@@ -8,6 +8,9 @@ mixin make_post(item, is_detail)
 					a(href= url_for(item.path))= item.title
 		if is_detail
 			.post-content
+				h4!= item.subtitle
+				a(href= url_for(item.paper_url))= "[Paper] "
+				a(href= url_for(item.data_url))= " [Data]"
 				p!= item.content
 				if theme.copyright.show
 					.tip!= (item.copyright || theme.copyright.default) + "<br>" + __("author") + ": " + (item.author || theme.author)
@@ -19,8 +22,14 @@ mixin make_post(item, is_detail)
 				else
 					.card
 						if item.excerpt
+							h4!= item.subtitle
+							a(href= url_for(item.paper_url))= "[Paper] "
+							a(href= url_for(item.data_url))= " [Data]"
 							p!= item.excerpt
 						else
+							h4!= item.subtitle
+							a(href= url_for(item.paper_url))= "[Paper] "
+							a(href= url_for(item.data_url))= " [Data]"
 							p!= item.summary || item.content
 		.post-footer: .meta
 			.info
