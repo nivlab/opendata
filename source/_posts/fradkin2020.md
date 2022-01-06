@@ -1,6 +1,6 @@
 ---
 title: Fradkin et al. (2020)
-subtitle: Doubting what you already know: Uncertainty regarding state transitions is associated with obsessive compulsive symptoms
+subtitle: 'Doubting what you already know: Uncertainty regarding state transitions is associated with obsessive compulsive symptoms'
 date: 2020/02/27
 paper_url: https://doi.org/10.1371/journal.pcbi.1007634
 data_url: https://osf.io/d6b3m/

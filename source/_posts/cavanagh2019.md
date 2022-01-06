@@ -1,6 +1,6 @@
 ---
 title: Cavanagh et al. (2019)
-subtitle: Multiple Dissociations Between Comorbid Depression and Anxiety on Reward and Punishment Processing: Evidence From Computationally Informed EEG
+subtitle: 'Multiple Dissociations Between Comorbid Depression and Anxiety on Reward and Punishment Processing: Evidence From Computationally Informed EEG'
 date: 2019/01/19
 paper_url: https://doi.org/10.1162/cpsy_a_00024
 data_url: https://bit.ly/2F11Zwv
