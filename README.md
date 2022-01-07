@@ -7,6 +7,9 @@ This project is hosted on GitHub Pages using [Hexo](https://hexo.io/docs/) and [
 ## TO-DO
 - [ ] Turn off animations
 - [ ] Add tags to archive page
+- [ ] Add back self-report studies + new CTQ
+- [ ] Move two old Niv studies
+- [ ] add new article templates
 
 ## Contributing
 
