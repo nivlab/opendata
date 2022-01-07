@@ -11,4 +11,4 @@ tags:
 - mood
 ---
 
-Data for a study in which N=120 participants completed a novel compound generalization task with mood inductions and eye-tracking.
+Data from a study in which N=120 participants completed a novel compound generalization task with mood inductions and eye-tracking.

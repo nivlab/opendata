@@ -10,4 +10,4 @@ tags:
 - eeg
 ---
 
-Data for a study in which N=75 participants (N=45 patients with schizophrenia, N=30 healthy controls) completed the Pavlovian go/no-go task.
+Data from a study in which N=75 participants (N=45 patients with schizophrenia, N=30 healthy controls) completed the Pavlovian go/no-go task.

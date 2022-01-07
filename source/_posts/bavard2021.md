@@ -10,4 +10,4 @@ tags:
 - range adaptation
 ---
 
-Data for a study in which N=800 participants completed a novel range adaptation task.
+Data from a study in which N=800 participants completed a novel range adaptation task.

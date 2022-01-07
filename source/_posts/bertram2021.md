@@ -10,4 +10,4 @@ tags:
 - mood
 ---
 
-Data for a study in which N=281 participants across two experiments (N=162, N=119) in which participants estimated the probabilities of neutral compound events and rated their current mood.
+Data from a study in which N=281 participants across two experiments (N=162, N=119) in which participants estimated the probabilities of neutral compound events and rated their current mood.

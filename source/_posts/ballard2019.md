@@ -9,4 +9,4 @@ tags:
 - configural learning
 ---
 
-Data for a study in which N=32 participants completed a target detection task involving configural learning.
+Data from a study in which N=32 participants completed a target detection task involving configural learning.

@@ -9,4 +9,4 @@ tags:
 - explore/exploit
 ---
 
-The data from 75 participants in a 2-arm bandit task with novel choice contexts introduced throughout the task. Behavior on the task shows agents learn how good an option is relative to an option with which it had previously been paired.
+Data from a study in which N=75 participants completed a 2-arm bandit task with novel choice options introduced throughout the task.

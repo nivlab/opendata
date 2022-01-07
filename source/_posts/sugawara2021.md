@@ -4,7 +4,6 @@ subtitle: Dissociation between asymmetric value updating and perseverance in hum
 date: 2021/01/01
 paper_url: https://doi.org/10.1038/s41598-020-80593-7
 data_url: https://figshare.com/articles/Cognitive_bias_and_perseverance/10042319
-categories:
 tags:
 ---
 

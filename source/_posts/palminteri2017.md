@@ -10,4 +10,4 @@ tags:
 - confirmation bias
 ---
 
-Data from N=40 participants who completed a 2-arm bandit task with and without counterfactual feedback.
+Data from a study in which N=40 participants completed a 2-arm bandit task with and without counterfactual feedback.

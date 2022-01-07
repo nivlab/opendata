@@ -1,11 +1,12 @@
 ---
 title: Radulescu et al. (2020)
 subtitle: On the convergent validity of risk sensitivity measures
-date: 2020/01/01
+date: 2020/05/25
 paper_url: https://psyarxiv.com/qdhx4
 data_url: https://github.com/nivlab/RiskData
-categories:
 tags:
+- 2-arm bandit
+- risk sensitivity
 ---
 
-Data from 500+ participants on the Niv et al. (2012) risk sensitivity task, Holt & Laury gambles, and BIS/BAS questionnaire.
+Data from a study in which N=563 participants completed a 2-arm bandit measuring preferences between certain and risky reward options.
