@@ -2,7 +2,6 @@
 title: Artzi & Shahar (2021)
 subtitle: Four armed bandit task with reward and punishment manipulations
 date: 2021/12/03
-paper_url: https://osf.io/fxney/
 data_url: https://osf.io/fxney/
 tags:
 - multi-arm bandit
