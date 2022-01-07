@@ -8,7 +8,6 @@ tags:
 - reversal learning
 - punishment
 - ptsd
-- skin conductance
 ---
 
 Data from a study in which N=77 participants (combat veterans) completed a threat discrimination and reversal task.

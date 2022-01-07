@@ -7,7 +7,7 @@ data_url: https://figshare.com/articles/dataset/Models_that_learn_how_humans_lea
 tags:
 - 2-arm bandit
 - depression
-- bipolar disorder
+- mania
 ---
 
 Data from a study in which N=101 participants (N=34 healthy controls, N=34 unipolar depressed patients, N=33 bipolar depressed patients) completed a 2-arm bandit task.

@@ -7,7 +7,6 @@ data_url: https://doi.org/10.6084/m9.figshare.4265408.v1
 tags:
 - 2-arm bandit
 - counterfactual feedback
-- confirmation bias
 ---
 
 Data from a study in which N=40 participants completed a 2-arm bandit task with and without counterfactual feedback.

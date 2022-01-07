@@ -9,6 +9,7 @@ tags:
 - reversal learning
 - anxiety
 - depression
+- mania
 ---
 
 Data from a study in which N=386 participants completed a 3-arm reversal learning task and multiple self-report symptom measures.

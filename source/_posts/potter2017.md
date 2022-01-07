@@ -8,6 +8,7 @@ tags:
 - development
 - adolescence
 - two-step
+- working memory
 ---
 
 Daa from a study in which N=69 participants (N=22 children, N=23 adolescents, N=24 adults) completed the two-step task and several measures of executive functioning.

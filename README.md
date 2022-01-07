@@ -7,7 +7,6 @@ This project is hosted on GitHub Pages using [Hexo](https://hexo.io/docs/) and [
 ## TO-DO
 - [ ] Turn off animations
 - [ ] Add tags to archive page
-- [ ] Finish updating all submissions
 
 ## Contributing
 

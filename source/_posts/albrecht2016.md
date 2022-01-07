@@ -6,7 +6,7 @@ paper_url: https://doi.org/10.1371/journal.pone.0152781
 data_url: https://zenodo.org/record/29601
 tags:
 - pavlovian go/no-go task
-- schizophrenia
+- schizotypy
 - eeg
 ---
 
