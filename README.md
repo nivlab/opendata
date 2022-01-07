@@ -1,37 +1,27 @@
 # OpenData
 
-Niv lab's open data website. 
+A collection of publicly available behavioral datasets maintained by the Niv lab.
 
-## Installation
+This project is hosted on GitHub Pages using [Hexo](https://hexo.io/docs/) and [Anatolo](https://github.com/Lhcfl/hexo-theme-anatolo).
 
-Add this line to your Jekyll site's Gemfile:
+## TO-DO
+- [ ] Turn off animations
+- [ ] Add tags to archive page
+- [ ] Finish updating all submissions
 
-```ruby
-gem "just-the-docs"
-```
+## Contributing
 
-And add this line to your Jekyll site's `_config.yml`:
+To contribute to OpenData, please see the [contributing](https://nivlab.github.io/opendata/contribute) page.
 
-```yaml
-theme: just-the-docs
-```
+### Previewing the demos page locally
 
-And then execute:
+If you'd like to preview OpenData locally (for example, in the process of proposing a change):
 
-    $ bundle
+1. Clone down the project's repository (`git clone https://github.com/nivlab/opendata`)
+2. `cd` into the project's directory
+3. Run `npm install` to install the necessary dependencies
+4. Run `hexo generate` to generate the site
+5. Run `hexo server` to start the preview server
+6. Visit `localhost:4000/opendata` in your browser to preview the project
 
-Or install it yourself as:
-
-    $ gem install just-the-docs
-
-## Usage
-
-[View the documentation](https://pmarsceill.github.io/just-the-docs/) for usage information.
-
-## Development
-
-To set up your environment to develop this theme, run `bundle install`.
-
-Your theme is set up just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
-
-When the theme is released, only the files in `_layouts`, `_includes`, and `_sass` tracked with Git will be released.
+If you do not already have Hexo installed, please see their [installation page](https://hexo.io/docs/#Installation).
