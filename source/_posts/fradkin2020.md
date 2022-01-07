@@ -5,7 +5,7 @@ date: 2020/02/27
 paper_url: https://doi.org/10.1371/journal.pcbi.1007634
 data_url: https://osf.io/d6b3m/
 tags:
-- mult-arm bandit
+- multi-arm bandit
 - reversal learning
 - compulsivity
 ---
