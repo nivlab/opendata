@@ -4,12 +4,12 @@
       .title
         img(src= url_for(theme.logo_dir),style=theme.logo_style, alt="favicon")
         h3(title="")
-          a(href="/")= config.title
+          a(href="/opendata")= config.title
         if theme.description
           .description
             p!= theme.description
       include social_links
-    
+
     include toc
-  
+
   include footer

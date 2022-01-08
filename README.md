@@ -5,11 +5,9 @@ A collection of publicly available behavioral datasets maintained by the Niv lab
 This project is hosted on GitHub Pages using [Hexo](https://hexo.io/docs/) and [Anatolo](https://github.com/Lhcfl/hexo-theme-anatolo).
 
 ## TO-DO
-- [ ] Turn off animations
 - [ ] Add tags to archive page
 - [ ] Add back self-report studies + new CTQ
-- [ ] Move two old Niv studies
-- [ ] add new article templates
+- [ ] Move three old Niv studies
 
 ## Contributing
 

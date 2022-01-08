@@ -94,6 +94,7 @@ include:
 exclude:
 ignore:
   - datasets/
+  - scaffolds/
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
