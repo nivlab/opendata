@@ -5,7 +5,7 @@ date: 2018/08/28
 paper_url: https://doi.org/10.1007/s42113-018-0010-8
 data_url: https://osf.io/nzvqp/
 tags:
-- multi-armed bandit
+- multi-arm bandit
 - restless bandit
 - explore/exploit
 ---

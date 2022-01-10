@@ -8,7 +8,7 @@ tags:
 - 2-arm bandit
 - agency
 - eeg
-- Parkinson's
+- parkinson's
 ---
 
 Data from a study in which N=56 participants (N=28 Parkinson's patients, N=28 healthy controls) completed a 2-arm bandit task with with free- and fixed-choice trials.
