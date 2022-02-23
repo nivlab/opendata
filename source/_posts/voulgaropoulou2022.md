@@ -1,7 +1,7 @@
 ---
-title: Voulgaropoulou et al. (2021)
+title: Voulgaropoulou et al. (2022)
 subtitle: Asymmetric effects of acute stress on cost and benefit learning
-date: 2021/12/24
+date: 2022/01/20
 paper_url: https://doi.org/10.1016/j.psyneuen.2021.105646
 data_url: https://osf.io/ydv2q/
 tags:
