@@ -1,5 +1,5 @@
 ---
-title: Artzi et al. (2022)
+title: Ben Artzi et al. (2022)
 subtitle: Cognitive resources predict value learning for outcome-irrelevant features
 date: 2022/02/13
 paper_url: https://psyarxiv.com/4j5rg/
