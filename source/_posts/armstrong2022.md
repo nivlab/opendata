@@ -5,7 +5,7 @@ date: 2022/02/23
 paper_url: https://psyarxiv.com/4ct8x/
 data_url: https://osf.io/hdgmu/
 tags:
-- Pavlovian conditioning
+- pavlovian conditioning
 - eye-tracking
 ---
 
