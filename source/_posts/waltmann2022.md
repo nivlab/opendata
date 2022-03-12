@@ -7,6 +7,7 @@ data_url: https://osf.io/4ng3e/
 tags:
 - 2-arm bandit
 - reversal learning
+- test-retest
 ---
 
 Data from a study in which N=40 participants completed a probabilistic reversal learning task twice.
