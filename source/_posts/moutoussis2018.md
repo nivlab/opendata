@@ -8,6 +8,7 @@ tags:
 - pavlovian go/no-go task
 - development
 - adolescence
+- test-retest
 ---
 
 Data from a study in which N=817 participants (aged 14-24) who completed the pavlovian go/no-go task task.
