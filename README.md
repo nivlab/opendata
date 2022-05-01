@@ -4,10 +4,6 @@ A collection of publicly available behavioral datasets maintained by the Niv lab
 
 This project is hosted on GitHub Pages using [Hexo](https://hexo.io/docs/) and [Anatolo](https://github.com/Lhcfl/hexo-theme-anatolo).
 
-## TO-DO
-- [ ] Add tags to archive page
-- [ ] Move three old Niv studies
-
 ## Contributing
 
 To contribute to OpenData, please see the [contributing](https://nivlab.github.io/opendata/contribute) page.
