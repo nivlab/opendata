@@ -7,7 +7,7 @@ data_url: https://zenodo.org/record/5121167
 tags:
 - 2-arm bandit
 - social decision making
-- eeg
+- m/eeg
 - tdcs
 ---
 

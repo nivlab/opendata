@@ -6,7 +6,7 @@ paper_url: https://doi.org/10.1371/journal.pbio.2005979
 data_url: https://data.donders.ru.nl/collections/di/dccn/DSC_3017033.03_624?0
 tags:
 - pavlovian go/no-go task
-- eeg
+- m/eeg
 ---
 
 Data from a study in which N=34 participants completed the pavlovian go/no-go task.

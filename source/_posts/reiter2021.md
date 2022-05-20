@@ -5,7 +5,7 @@ date: 2021/06/22
 paper_url: https://doi.org/10.1038/s41467-021-23671-2
 data_url: https://osf.io/jpks2/
 tags:
-- delay discounting
+- temporal discounting
 - social decision making
 - development
 - adolescence

@@ -7,7 +7,7 @@ data_url: https://doi.org/10.18112/openneuro.ds003506.v1.1.0
 tags:
 - 2-arm bandit
 - agency
-- eeg
+- m/eeg
 - parkinson's
 ---
 

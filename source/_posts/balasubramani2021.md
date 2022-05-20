@@ -6,7 +6,7 @@ paper_url: https://www.biorxiv.org/content/10.1101/2021.06.11.447974
 data_url: https://doi.org/10.5281/zenodo.4088951
 tags:
 - 2-arm bandit
-- eeg
+- m/eeg
 - depression
 - anxiety
 ---

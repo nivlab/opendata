@@ -7,7 +7,7 @@ data_url: https://openneuro.org/datasets/ds001784
 tags:
 - cognitive control
 - depression
-- eeg
+- m/eeg
 ---
 
 Data from a study in which N=14 patients with deep brain stimulation for depression completed an affective Stroop task twice, once with DBS-ON and once with DBS-OFF.
