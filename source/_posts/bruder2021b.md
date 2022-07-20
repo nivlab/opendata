@@ -1,5 +1,5 @@
 ---
-title: Bruder et al. (2021)
+title: Bruder et al. (2021b)
 subtitle: Increased temporal discounting and reduced model-based control in problem gambling are not substantially modulated by exposure to virtual gambling environments
 date: 2021/09/17
 paper_url: https://doi.org/10.1101/2021.09.16.459889

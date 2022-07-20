@@ -1,5 +1,5 @@
 ---
-title: Waltmann et al. (2022)
+title: Waltmann et al. (2022a)
 subtitle: Sufficient Reliability of the Behavioral and Computational Read-Outs of a Probabilistic Reversal Learning Task
 date: 2022/02/15
 paper_url: https://doi.org/10.3758/s13428-021-01739-7

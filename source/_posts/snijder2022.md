@@ -7,6 +7,7 @@ data_url: https://osf.io/pqvga/
 tags:
 - cognitive control
 - test-retest
+- longitudinal
 ---
 
 Data from a study in which N=128 participants four cognitive control tasks (Stroop, AX-CPT, cued task-switching, Sternberg working memory) across multiple sessions separated across weeks.
