@@ -11,4 +11,4 @@ tags:
 - ecological momentary assessment
 ---
 
-Data from a study in which N=310 younger and older adult participants cognitive the Effort Discounting paradigm (Cog-ED),under both gain and loss conditions, to provide an experimental index of cognitive effort costs for each participant in each framing condition. As subset of participants(N=230) also completed a seven-day Ecological Momentary Assessment (EMA) protocol measuring engagement in mentally demanding daily life activities.
+Data from a study in which N=310 younger and older adult participants cognitive the Effort Discounting paradigm (Cog-ED), under both gain and loss conditions, to provide an experimental index of cognitive effort costs for each participant in each framing condition. As subset of participants(N=230) also completed a seven-day Ecological Momentary Assessment (EMA) protocol measuring engagement in mentally demanding daily life activities.
