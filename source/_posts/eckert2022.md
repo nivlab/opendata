@@ -3,7 +3,7 @@ title: Eckert et al. (2022)
 subtitle: Cross-Modality Evidence for Reduced Choice History Biases in Psychosis-Prone Individuals
 date: 2022/11/28
 paper_url: https://doi.org/10.1093/schbul/sbac168
-data_url: https://github.com/Eckertal/ChoiceHistPsych
+data_url: https://figshare.com/projects/ChoiceHistPsych/131861
 tags:
 - perceptual decision making
 - psychosis
