@@ -1,5 +1,5 @@
 ---
-title: Hayes & Wedell (2022)
+title: Hayes & Wedell (2022a)
 subtitle: Testing models of context-dependent outcome encoding in reinforcement learning
 date: 2022/03/28
 paper_url: https://psyarxiv.com/3mn5u/
