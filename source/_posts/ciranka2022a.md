@@ -1,5 +1,5 @@
 ---
-title: Ciranka et al. (2022)
+title: Ciranka et al. (2022a)
 subtitle: Asymmetric reinforcement learning facilitates human inference of transitive relations
 date: 2022/01/31
 paper_url: https://doi.org/10.1038/s41562-021-01263-w

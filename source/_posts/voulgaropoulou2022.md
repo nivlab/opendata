@@ -7,7 +7,7 @@ data_url: https://osf.io/ydv2q/
 tags:
 - 2-arm bandit
 - effort
-- mood
+- stress
 ---
 
 Data from a study in which N=80 participants (N=40 stress, N=40 no stress) completed a probabilistic cost-benefit reinforcement learning paradigm, in which they learned to select stimuli with high reward value and avoid stimuli with high action cost (exerting grip force). Participants also completed the Positive and Negative Affect Scale (PANAS).
