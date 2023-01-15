@@ -105,3 +105,8 @@ theme: OpenData
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+# Analytics
+## Format: G-xxxxxxxxx
+## Example: G-0A12345678
+google_analytics: G-PTJE4Z001J
