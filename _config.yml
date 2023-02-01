@@ -93,7 +93,6 @@ pagination_dir: page
 include:
 exclude:
 ignore:
-  - datasets/
   - scaffolds/
 
 # Extensions
