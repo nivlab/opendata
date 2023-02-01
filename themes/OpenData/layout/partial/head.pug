@@ -27,13 +27,10 @@ link(rel="stylesheet", href= url_for('css/search.css'))
 link(rel="alternate" type="application/atom+xml" title="ATOM 1.0" href="/atom.xml")
 script(src= url_for('js/jquery.js'))
 
-if theme.google_analytics
-  link(rel="dns-prefetch" href="https://www.google-analytics.com")
-  script.
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-    ga('create', '!{theme.google_analytics}', 'auto');
-    ga('send', 'pageview');
+// Global site tag (gtag.js) - Google Analytics
+script async src="https://www.googletagmanager.com/gtag/js?id=G-PTJE4Z001J"
+script.
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-PTJE4Z001J');
