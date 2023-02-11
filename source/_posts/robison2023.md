@@ -2,7 +2,7 @@
 title: Robison & Nguyen (2023)
 subtitle: 'Competition and reward structures nearly eliminate time-on-task performance decrements: Implications for theories of vigilance and mental effort'
 date: 2023/01/13
-paper_url: https://psyarxiv.com/n6p8d/
+paper_url: https://doi.org/10.31234/osf.io/n6p8d
 data_url: https://osf.io/5dfhe/
 tags:
 - effort

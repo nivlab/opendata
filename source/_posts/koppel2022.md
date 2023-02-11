@@ -2,7 +2,7 @@
 title: Koppel et al. (2022)
 subtitle: Comprehension in Economic Games
 date: 2022/09/09
-paper_url: https://psyarxiv.com/krzsb/
+paper_url: https://doi.org/10.31234/osf.io/krzsb
 data_url: https://osf.io/jeycb/
 tags:
 - economic game

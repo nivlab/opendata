@@ -2,7 +2,7 @@
 title: Naefgen et al. (2022)
 subtitle: Between- and Within-Subject Covariance Perspectives Matter for Investigations into the Relationship Between Single- and Dual-Tasking Performance
 date: 2022/05/25
-paper_url: https://psyarxiv.com/d4vap/
+paper_url: https://doi.org/10.31234/osf.io/d4vap
 data_url: https://osf.io/dgpt5/
 tags:
 - cognitive control

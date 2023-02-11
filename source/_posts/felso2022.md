@@ -2,7 +2,7 @@
 title: Felso et al. (2022)
 subtitle: Measuring individual differences in the depth of planning
 date: 2022/06/13
-paper_url: https://psyarxiv.com/xmf3y/
+paper_url: https://doi.org/10.31234/osf.io/xmf3y
 data_url: https://osf.io/k8gtw/
 tags:
 - sequential decision making

@@ -2,7 +2,7 @@
 title: Müller et al. (2022)
 subtitle: Preferences for seeking effort or reward information bias the willingness to work
 date: 2022/05/03
-paper_url: https://psyarxiv.com/8p4dc/
+paper_url: https://doi.org/10.1038/s41598-022-21917-7
 data_url: https://osf.io/sr97j/
 tags:
 - effort

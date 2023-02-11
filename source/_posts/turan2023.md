@@ -2,7 +2,7 @@
 title: Turan et al. (2023)
 subtitle: 'From generating to violating predictions: The effects of prediction error on episodic memory'
 date: 2023/01/14
-paper_url: https://psyarxiv.com/zm29a/
+paper_url: https://doi.org/10.31234/osf.io/zm29a
 data_url: https://osf.io/pfgyb/
 tags:
 - memory

@@ -2,7 +2,7 @@
 title: Pachur et al. (2018)
 subtitle: Prospect theory reflects selective allocation of attention.
 date: 2018/02/01
-paper_url: https://psycnet.apa.org/record/2018-03118-001
+paper_url: https://psycnet.apa.org/doi/10.1037/xge0000406
 data_url: https://osf.io/5semf/
 tags:
 - decisions from description

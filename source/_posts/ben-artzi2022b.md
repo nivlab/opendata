@@ -2,7 +2,7 @@
 title: Ben Artzi et al. (2022b)
 subtitle: Computational mechanisms underlying latent inverse value updating of unchosen actions
 date: 2022/05/31
-paper_url: https://psyarxiv.com/sxjez/
+paper_url: https://doi.org/10.31234/osf.io/sxjez
 data_url: https://osf.io/x3umz/
 tags:
 - multi-arm bandit

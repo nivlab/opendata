@@ -2,7 +2,7 @@
 title: Hellmann et al. (2022)
 subtitle: Simultaneous modeling of choice, confidence and response time in visual perception
 date: 2022/03/29
-paper_url: https://psyarxiv.com/3nq2g/
+paper_url: https://doi.org/10.31234/osf.io/3nq2g
 data_url: https://github.com/SeHellmann/SeqSamplingConfidenceModels
 tags:
 - perceptual decision making

@@ -2,7 +2,7 @@
 title: Mason et al. (2022)
 subtitle: Risky Effort
 date: 2022/12/19
-paper_url: https://psyarxiv.com/ck5bw/
+paper_url: https://doi.org/10.31234/osf.io/ck5bw
 data_url: https://osf.io/695js/
 tags:
 - effort

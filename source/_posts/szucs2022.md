@@ -2,7 +2,7 @@
 title: Szücs et al. (2022)
 subtitle: 'Rivalry and Admiration-Seeking in a Social Competition: From Traits to Behaviors Through Contextual Cues'
 date: 2022/03/16
-paper_url: https://psyarxiv.com/cwtvp/
+paper_url: https://doi.org/10.31234/osf.io/cwtvp
 data_url: https://osf.io/y9s7b/?view_only=92645664e8ea4b4795dd3a7f20d1d41d
 tags:
 - social decision making

@@ -2,7 +2,7 @@
 title: Bennett, Radulescu et al. (2021)
 subtitle: Affect-congruent attention drives changes in reward expectations
 date: 2021/11/08
-paper_url: https://psyarxiv.com/vu2cw/
+paper_url: https://doi.org/10.31234/osf.io/vu2cw
 data_url: https://osf.io/egw5c/
 tags:
 - 2-arm bandit

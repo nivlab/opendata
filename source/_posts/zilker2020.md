@@ -2,7 +2,7 @@
 title: Zilker et al. (2020)
 subtitle: Age differences in risk attitude are shaped by option complexity.
 date: 2020/09/01
-paper_url: https://psycnet.apa.org/record/2020-07545-001
+paper_url: https://psycnet.apa.org/doi/10.1037/xge0000741
 data_url: https://osf.io/nzwx4/
 tags:
 - decisions from description

@@ -2,7 +2,7 @@
 title: Petitet et al. (2022)
 subtitle: Dissociable behavioural signatures of co-existing impulsivity and apathy in decision-making
 date: 2022/08/14
-paper_url: https://psyarxiv.com/857nf/
+paper_url: https://doi.org/10.31234/osf.io/857nf
 data_url: https://osf.io/6y54r/?view_only=c4d38174393d4568948e6287f498db88
 tags:
 - impulsivity

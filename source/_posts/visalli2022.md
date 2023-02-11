@@ -2,7 +2,7 @@
 title: Visalli et al. (2022)
 subtitle: Do irrelevant emotions interfere with proactive and reactive control? Evidence from an emotional priming Stroop task.
 date: 2022/08/08
-paper_url: https://psyarxiv.com/q2j8n/
+paper_url: https://doi.org/10.31234/osf.io/q2j8n
 data_url: https://osf.io/bc9x3/
 tags:
 - cognitive control

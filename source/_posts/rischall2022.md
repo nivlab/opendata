@@ -2,7 +2,7 @@
 title: Rischall et al. (2022)
 subtitle: Inefficient Prioritization of Task-Relevant Attributes During Instrumental Information Demand
 date: 2022/03/08
-paper_url: https://psyarxiv.com/vsqxk/
+paper_url: https://doi.org/10.31234/osf.io/vsqxk
 data_url: https://osf.io/q3jzx/
 tags:
 - information seeking

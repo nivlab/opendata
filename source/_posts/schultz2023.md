@@ -2,7 +2,7 @@
 title: Schultz et al. (2023)
 subtitle: 'A reward effect on memory retention, consolidation, and generalization?'
 date: 2023/01/31
-paper_url: https://psyarxiv.com/89s2k/
+paper_url: https://doi.org/10.31234/osf.io/89s2k
 data_url: https://osf.io/6vhgr/
 tags:
 - memory

@@ -2,7 +2,7 @@
 title: Pereg et al. (2022)
 subtitle: 'Computational mechanisms underlying advice-taking behavior: Disentangling the role of non-informed and informed advice taking'
 date: 2022/12/29
-paper_url: https://psyarxiv.com/28js3/
+paper_url: https://doi.org/10.31234/osf.io/28js3
 data_url: https://osf.io/vn84c/
 tags:
 - 2-arm bandit

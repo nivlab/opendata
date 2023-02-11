@@ -2,7 +2,7 @@
 title: Weber et al. (2022)
 subtitle: The effects of induced affect on Pavlovian-instrumental interactions in reinforcement learning
 date: 2022/02/14
-paper_url: https://psyarxiv.com/7fp8b/
+paper_url: https://doi.org/10.1080/02699931.2022.2109600
 data_url: https://osf.io/xfbgt/
 tags:
 - pavlovian go/no-go task

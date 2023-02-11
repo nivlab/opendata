@@ -2,7 +2,7 @@
 title: Ciranka & van den Bos (2022)
 subtitle: Uncertainty drives social information use in risky choice across adolescence
 date: 2022/12/02
-paper_url: https://psyarxiv.com/73dja/
+paper_url: https://doi.org/10.31234/osf.io/73dja
 data_url: https://arc-git.mpib-berlin.mpg.de/ciranka/BayesianLearning
 tags:
 - development

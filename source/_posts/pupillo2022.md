@@ -2,7 +2,7 @@
 title: Pupillo et al. (2022)
 subtitle: The Effect of Prediction Error on Episodic Memory Encoding is Modulated by the Outcome of the Predictions
 date: 2022/05/12
-paper_url: https://psyarxiv.com/4qmzk/
+paper_url: https://doi.org/10.31234/osf.io/4qmzk
 data_url: https://github.com/FPupillo/PreM-Computational
 tags:
 - memory

@@ -2,7 +2,7 @@
 title: Karagoz et al. (2022)
 subtitle: The construction and use of cognitive maps in model-based control
 date: 2022/04/18
-paper_url: https://psyarxiv.com/ngqwa/
+paper_url: https://doi.org/10.31234/osf.io/ngqwa
 data_url: https://github.com/cdm-lab/mb-cog-maps-paper/
 tags:
 - sequential decision making

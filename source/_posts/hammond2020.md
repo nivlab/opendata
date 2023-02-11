@@ -2,7 +2,7 @@
 title: Hammond et al. (2020)
 subtitle: Anxiety and Depression Related Abnormalities in Socio-affective Learning
 date: 2020/12/15
-paper_url: https://psyarxiv.com/tg3ec
+paper_url: https://doi.org/10.31234/osf.io/tg3ec
 data_url: https://osf.io/quy76/
 tags:
 - 2-arm bandit

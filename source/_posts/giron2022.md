@@ -2,7 +2,7 @@
 title: Giron et al. (2022)
 subtitle: Developmental changes resemble stochastic optimization
 date: 2022/04/02
-paper_url: https://psyarxiv.com/9f4k3/
+paper_url: https://doi.org/10.31234/osf.io/9f4k3
 data_url: https://github.com/AnnaGiron/developmental_trajectory
 tags:
 - explore/exploit

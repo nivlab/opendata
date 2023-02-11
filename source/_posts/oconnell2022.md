@@ -2,7 +2,7 @@
 title: O'Connell et al. (2202)
 subtitle: Modeling variation in empathic sensitivity using go/no-go social reinforcement learning
 date: 2021/07/24
-paper_url: https://psyarxiv.com/drcq6/
+paper_url: https://doi.org/10.31234/osf.io/drcq6
 data_url: https://osf.io/u9fx3/
 tags:
 - social decision making

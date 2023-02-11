@@ -2,7 +2,7 @@
 title: Stevenson et al. (2022)
 subtitle: Joint modelling of latent cognitive mechanisms shared across decision-making domains
 date: 2022/12/21
-paper_url: https://psyarxiv.com/abzhk/
+paper_url: https://doi.org/10.31234/osf.io/abzhk
 data_url: https://osf.io/c3d75/
 tags:
 - cognitive control

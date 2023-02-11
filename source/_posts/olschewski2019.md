@@ -2,7 +2,7 @@
 title: Olschewski et al. (2019)
 subtitle: How Basic Cognition Influences Experience-Based Economic Valuation
 date: 2019/02/18
-paper_url: https://osf.io/4st52/
+paper_url: https://doi.org/10.31219/osf.io/4st52
 data_url: https://osf.io/ehkuz/
 tags:
 - sequential sampling

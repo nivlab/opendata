@@ -2,7 +2,7 @@
 title: Radulescu et al. (2020)
 subtitle: On the convergent validity of risk sensitivity measures
 date: 2020/05/25
-paper_url: https://psyarxiv.com/qdhx4
+paper_url: https://doi.org/10.31234/osf.io/qdhx4
 data_url: https://github.com/nivlab/RiskData
 tags:
 - 2-arm bandit

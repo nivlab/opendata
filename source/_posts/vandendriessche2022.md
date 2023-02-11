@@ -2,7 +2,7 @@
 title: Vandendriessche et al. (2022)
 subtitle: "Contextual influence of reinforcement learning performance of depression: evidence for a negativity bias?"
 date: 2022/06/21
-paper_url: doi.org/10.1017/S0033291722001593
+paper_url: https://doi.org/10.1017/S0033291722001593
 data_url: https://github.com/hrl-team/Data_depression
 tags:
 - 2-arm bandit

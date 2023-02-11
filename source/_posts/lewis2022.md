@@ -2,7 +2,7 @@
 title: Lewis et al. (2022)
 subtitle: Women compared with men work harder for small rewards
 date: 2022/10/29
-paper_url: https://psyarxiv.com/2qs6j/
+paper_url: https://doi.org/10.31234/osf.io/2qs6j
 data_url: https://osf.io/58r3c/?view_only=5d1ccee7d67b464bb6f40ebe7ebc844b
 tags:
 - effort
