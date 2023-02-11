@@ -1,8 +1,8 @@
 ---
 title: Nicholas et al. (2022)
 subtitle: Uncertainty alters the balance between incremental learning and episodic memory
-date: 2022/07/06
-paper_url: https://www.biorxiv.org/content/10.1101/2022.07.05.498877v2
+date: 2022/12/02
+paper_url: https://doi.org/10.7554/eLife.81679
 data_url: https://codeocean.com/capsule/2024716/tree/v1
 tags:
 - 2-arm bandit

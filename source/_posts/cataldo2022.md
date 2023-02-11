@@ -2,7 +2,7 @@
 title: Cataldo et al. (2022)
 subtitle: Abnormal evidence accumulation underlies the positive memory deficit in depression.
 date: 2022/08/10
-paper_url: https://psycnet.apa.org/doi/10.1037/xge0001268
+paper_url: https://doi.org/10.1037/xge0001268
 data_url: https://osf.io/w9asj/
 tags:
 - depression

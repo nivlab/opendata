@@ -1,8 +1,8 @@
 ---
 title: Kurtenbach et al. 2022
 subtitle: Removal of reinforcement improves instrumental performance in humans by decreasing a general action bias rather than unmasking learnt associations
-date: 2022/10/29
-paper_url: https://www.biorxiv.org/content/10.1101/2022.10.25.492051v2
+date: 2022/12/08
+paper_url: https://doi.org/10.1371/journal.pcbi.1010201
 data_url: https://osf.io/nxhd5/
 tags:
 - 2-arm bandit

@@ -1,8 +1,8 @@
 ---
 title: Klingelhöfer-Jens et al. (2022)
 subtitle: 'Robust group- but limited individual-level (longitudinal) reliability and insights into cross-phases response prediction of conditioned fear'
-date: 2022/03/18
-paper_url: https://www.biorxiv.org/content/10.1101/2022.03.15.484434v1
+date: 2022/09/13
+paper_url: https://doi.org/10.7554/eLife.78717
 data_url: https://zenodo.org/record/6359920#.YjDKlDUxlhE
 tags:
 - pavlovian conditioning

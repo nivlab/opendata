@@ -2,7 +2,7 @@
 title: Bennett et al. (2021)
 subtitle: Anxious and obsessive-compulsive traits are independently associated with valuation of noninstrumental information
 date: 2021/04/01
-paper_url: https://psycnet.apa.org/doi/10.1037/xge0000966
+paper_url: https://doi.org/10.1037/xge0000966
 data_url: https://osf.io/eg74d/
 tags:
 - explore/exploit

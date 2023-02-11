@@ -2,7 +2,7 @@
 title: Kaplan & Solway (2022)
 subtitle: Perceptual Decision Impairments Linked to Obsessive-Compulsive Symptoms are Substantially Driven by State-Based Effects
 date: 2022/05/12
-paper_url: http://doi.org/10.5334/cpsy.87
+paper_url: https://doi.org/10.5334/cpsy.87
 data_url: https://osf.io/vha5r/?view_only=8d417853f79f4f01818161edf6510c0b
 tags:
 - working memory

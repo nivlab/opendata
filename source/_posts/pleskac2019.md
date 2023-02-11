@@ -2,7 +2,7 @@
 title: Pleskac et al. (2019)
 subtitle: 'Mechanisms of deliberation during preferential choice: Perspectives from computational modeling and individual differences'
 date: 2019/01/01
-paper_url: https://doi.apa.org/doi/10.1037/dec0000092
+paper_url: https://doi.org/10.1037/dec0000092
 data_url: https://osf.io/g7a49/
 tags:
 - sequential sampling
