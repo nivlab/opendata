@@ -9,7 +9,6 @@ authors:
 - Weidemann, Gabrielle
 - Lovibond, Peter
 - McNally, Gavan P
-journal: nan
 paper_url: https://doi.org/10.31234/osf.io/qw534
 data_url: https://osf.io/ykun2/
 tags:

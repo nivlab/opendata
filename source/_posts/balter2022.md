@@ -4,7 +4,6 @@ subtitle: Working Memory Load Impairs Transfer Learning in Human Adults
 date: 2022/07/02
 authors:
 - Balter, Leonie J T
-journal: nan
 paper_url: https://doi.org/10.31234/osf.io/ztac4
 data_url: https://osf.io/98dcx/
 tags:
