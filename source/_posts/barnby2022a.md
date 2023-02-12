@@ -1,5 +1,5 @@
 ---
-title: Barnby et al. (2022)
+title: Barnby et al. (2022a)
 subtitle: The computational relationship between reinforcement learning and social inference in paranoia
 date: 2022/03/15
 authors:

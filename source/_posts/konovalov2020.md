@@ -10,6 +10,7 @@ paper_url: https://doi.org/10.1038/s41467-020-15696-w
 data_url: https://osf.io/v54nz/
 tags:
 - two-step
+- mouse-tracking
 sample_size: 58
 ---
 
