@@ -1,7 +1,10 @@
 ---
 title: Ben Artzi & Shahar (2021)
-subtitle: Four armed bandit task with reward and punishment manipulations
+subtitle: 'Four armed bandit task with reward and punishment manipulations'
 date: 2021/12/03
+authors:
+- Shahar, Nitzan
+- Ben-Artzi, Ido
 data_url: https://osf.io/fxney/
 tags:
 - multi-arm bandit

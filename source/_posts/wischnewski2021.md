@@ -2,6 +2,11 @@
 title: Wischnewski et al. (2021)
 subtitle: 'Behavioral and electrocortical effects of transcranial alternating current stimulation during advice-guided decision-making'
 date: 2021/09/10
+authors:
+- Wischnewski, Miles
+- Alekseichuk, Ivan
+- Schutter, Dennis J L G
+journal: Neuroimage Rep.
 paper_url: https://doi.org/10.1016/j.ynirp.2021.100052
 data_url: https://zenodo.org/record/5121167
 tags:
