@@ -12,7 +12,7 @@ tags:
 - two-step
 - development
 - adolescence
-abstract: 'The development of metacontrol of decision making and its susceptibility to framing effects were investigated in a sample of 201 adolescents and adults in Germany (12-25 years, 111 female, ethnicity not recorded). In a task that dissociates model-free and model-based decision making, outcome magnitude and outcome valence were manipulated. Both adolescents and adults showed metacontrol and metacontrol tended to increase across adolescence. Furthermore, model-based decision making was more pronounced for loss compared to gain frames but there was no evidence that this framing effect differed with age. Thus, the strategic adaptation of decision making continues to develop into young adulthood and for both adolescents and adults, losses increase the motivation to invest cognitive resources into an effortful decision-making strategy.'
+sample_size: 201
 ---
 
-Data from a study in which N=201 participants (age 12-25 years) completed a modified two-step task with a manipulation of incentive size and outcome valence (gain vs. loss).
+The development of metacontrol of decision making and its susceptibility to framing effects were investigated in a sample of 201 adolescents and adults in Germany (12-25 years, 111 female, ethnicity not recorded). In a task that dissociates model-free and model-based decision making, outcome magnitude and outcome valence were manipulated. Both adolescents and adults showed metacontrol and metacontrol tended to increase across adolescence. Furthermore, model-based decision making was more pronounced for loss compared to gain frames but there was no evidence that this framing effect differed with age. Thus, the strategic adaptation of decision making continues to develop into young adulthood and for both adolescents and adults, losses increase the motivation to invest cognitive resources into an effortful decision-making strategy.
