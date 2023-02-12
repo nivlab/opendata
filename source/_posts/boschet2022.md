@@ -14,6 +14,7 @@ tags:
 - anxiety
 - approach/avoidance
 - pavlovian conditioning
+- mouse-tracking
 sample_size: 80
 ---
 
