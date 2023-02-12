@@ -9,6 +9,7 @@ paper_url: https://artebisschop.shinyapps.io/shiny/
 data_url: https://github.com/jstbcs/inhibitiontasks
 tags:
 - cognitive control
+- database
 ---
 
 Database of cognitive control task data (e.g., Stroop, Flanker tasks).

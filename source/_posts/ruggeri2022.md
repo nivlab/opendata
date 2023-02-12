@@ -179,7 +179,7 @@ paper_url: https://doi.org/10.1038/s41562-022-01392-w
 data_url: https://osf.io/njd62
 tags:
 - temporal discounting
-abstract: 'Economic inequality is associated with preferences for smaller, immediate gains over larger, delayed ones. Such temporal discounting may feed into rising global inequality, yet it is unclear whether it is a function of choice preferences or norms, or rather the absence of sufficient resources for immediate needs. It is also not clear whether these reflect true differences in choice patterns between income groups. We tested temporal discounting and five intertemporal choice anomalies using local currencies and value standards in 61 countries (N = 13,629). Across a diverse sample, we found consistent, robust rates of choice anomalies. Lower-income groups were not significantly different, but economic inequality and broader financial circumstances were clearly correlated with population choice patterns.'
+sample_size: 13629
 ---
 
-Data from a study in which N=13,629 participants from 61 countries completed a temporal discounting task.
+Economic inequality is associated with preferences for smaller, immediate gains over larger, delayed ones. Such temporal discounting may feed into rising global inequality, yet it is unclear whether it is a function of choice preferences or norms, or rather the absence of sufficient resources for immediate needs. It is also not clear whether these reflect true differences in choice patterns between income groups. We tested temporal discounting and five intertemporal choice anomalies using local currencies and value standards in 61 countries (N = 13,629). Across a diverse sample, we found consistent, robust rates of choice anomalies. Lower-income groups were not significantly different, but economic inequality and broader financial circumstances were clearly correlated with population choice patterns.
