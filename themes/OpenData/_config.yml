@@ -51,8 +51,8 @@ rightbtn:
 
 
 # Some settings
-useSummary: false    # enable it will use summary of your posts in index
-
+useSummary: true     # enable it will use summary of your posts in index
+summaryLength: 584   # maximum number of characters when abbreviating posts
 useTagCloud: false   # use tagcloud instead of tag list
 tocMaxDepth: 6       # if you set 0, toc will close. The maximum is 6.
 
@@ -67,7 +67,7 @@ valine:
   enable: false # if you want use valine, please set enable: true
   appid:  # your leancloud appid
   appkey:  # your leancloud appkey
-  notify: false # true/false:mail notify !!!Test,Caution. https://github.com/xCss/Valine/wiki/Valine-%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E4%B8%AD%E7%9A%84%E9%82%AE%E4%BB%B6%E6%8F%90%E9%86%92%E8%AE%BE%E7%BD%AE
+  notify: false # true/false:mail notify
   verify: false # true/false:verify code
   avatar: mm # avatar style https://github.com/xCss/Valine/wiki/avatar-setting-for-valine
   placeholder: hello, world # comment box placeholder
