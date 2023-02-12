@@ -93,7 +93,8 @@ pagination_dir: page
 include:
 exclude:
 ignore:
-  - scaffolds/
+  - templates/
+  - tools/
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
