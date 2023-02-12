@@ -14,6 +14,7 @@ tags:
 - mindfulness
 - depression
 - self-judgment
+- clinical trial
 sample_size: 96
 ---
 
