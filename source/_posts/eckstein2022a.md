@@ -1,5 +1,5 @@
 ---
-title: Eckstein et al. (2022)
+title: Eckstein et al. (2022a)
 subtitle: 'Reinforcement learning and Bayesian inference provide complementary models for the unique advantage of adolescents in stochastic reversal'
 date: 2022/06/01
 authors:
