@@ -22,7 +22,7 @@ mixin make_post(item, is_detail)
 			.post-content
 				if theme.useSummary
 					- var summary = item.excerpt || item.content
-					p!= truncate(strip_html(summary), {length: theme.summaryLength})
+					p!= truncate(strip_html(summary), {length: theme.summaryLength, separator: ' '})
 				else
 					.card
 						if item.excerpt

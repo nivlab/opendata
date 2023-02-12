@@ -14,13 +14,10 @@ copyright:
   default: ""
   show_author: true
 
-
 footbar:
-  # Copyright
   copyright: MIT License
   beian:
   gongan:
-
 
 # Social Links
 # If you want to add more, go to sidebar.pug
@@ -46,17 +43,14 @@ menu:
 # Navbar rightbtn
 rightbtn:
   back: true
-  search: true       # 从Icarus抠出来的搜索框，关掉可以稍微提高速度
+  search: true
   avatar: true
-
 
 # Some settings
 useSummary: true     # enable it will use summary of your posts in index
-summaryLength: 584   # maximum number of characters when abbreviating posts
+summaryLength: 580   # maximum number of characters when abbreviating posts
 useTagCloud: false   # use tagcloud instead of tag list
 tocMaxDepth: 6       # if you set 0, toc will close. The maximum is 6.
-
-
 
 # Comment
 duoshuo:
@@ -71,10 +65,5 @@ valine:
   verify: false # true/false:verify code
   avatar: mm # avatar style https://github.com/xCss/Valine/wiki/avatar-setting-for-valine
   placeholder: hello, world # comment box placeholder
-
-
-# 百度统计设置
-# 请访问 https://tongji.baidu.com/
-# 获取统计JS代码放入 Anatolo/source/js/baidu-tongji.js
 
 Baidutongji: false
