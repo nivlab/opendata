@@ -13,7 +13,7 @@ The goal of this project is simply to make it easier for researchers to find and
 - Estimate meta-analytic effects across studies
 
 <h2 style="margin: 1em 0em 0.5em 0em">What is the scope of OpenData?</h2>
-The scope of this project is to catalogue any and all open datasets involving experimental or cognitive tasks (e.g., Stroop, delay discounting, 2-arm bandits). Datasets involving more naturalistic behaviors are also welcomed. The hard requirement is that trial-level data must be available.
+The scope of this project is to catalogue any and all open datasets involving experimental or cognitive tasks (e.g., Stroop, delay discounting, 2-arm bandits). Datasets involving more naturalistic behaviors are also welcomed. The only firm requirement is that trial-level data must be available.
 
 <h2 style="margin: 1em 0em 0.5em 0em">Who maintains OpenData?</h2>
 This project is maintained by <a href="https://szorowi1.github.io" target="_blank">Sam Zorowitz</a> with help from other members of the <a href="https://nivlab.princeton.edu" target="_blank">Niv Lab</a>.

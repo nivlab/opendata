@@ -6,8 +6,8 @@ description: A collection of publicly available<br>behavioral datasets
 # icon
 favicon: /images/favicon.webp
 avatar: /images/logo.webp
-logo_dir: /images/logo@2x.webp
-logo_style: width:200px;
+logo_dir: /images/logo.webp
+logo_style: width:175px;
 
 copyright:
   show: false
