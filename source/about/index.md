@@ -22,4 +22,4 @@ This project is maintained by <a href="https://szorowi1.github.io" target="_blan
 Please see the <a href="../contribute">contributing</a> page.
 
 <h2 style="margin: 1em 0em 0.5em 0em">How can I report an issue?</h2>
-Please open an issue on our <a href="https://www.github.com/nivlab/opendata/issues" target="_blank">Github</a> or directly <a href="mailto:zorowitz@princeton.edu">contact</a> the maintainer.
+Please open an issue on our <a href="https://www.github.com/nivlab/opendata/issues/new" target="_blank">Github</a> or directly <a href="mailto:zorowitz@princeton.edu">contact</a> the maintainer.
