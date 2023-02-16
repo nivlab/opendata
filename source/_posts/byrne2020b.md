@@ -1,5 +1,5 @@
 ---
-title: Byrne et al. (2020)
+title: Byrne et al. (2020b)
 subtitle: Acute stress enhances tolerance of uncertainty during decision-making
 date: 2020/12/01
 authors:

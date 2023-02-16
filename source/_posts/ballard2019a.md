@@ -1,5 +1,5 @@
 ---
-title: Ballard et al. (2019)
+title: Ballard et al. (2019a)
 subtitle: Hippocampal pattern separation supports reinforcement learning
 date: 2019/02/13
 authors:
