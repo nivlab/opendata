@@ -11,6 +11,7 @@ paper_url: https://doi.org/10.1016/j.cognition.2022.105098
 data_url: https://github.com/josephmbarnby/Barnby_etal_2021_SVO
 tags:
 - social decision making
+- paranoia
 sample_size: 697
 ---
 

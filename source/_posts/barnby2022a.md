@@ -13,6 +13,7 @@ tags:
 - reversal learning
 - economic game
 - schizotypy
+- paranoia
 sample_size: 750
 ---
 

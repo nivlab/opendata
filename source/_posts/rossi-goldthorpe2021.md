@@ -16,6 +16,7 @@ tags:
 - anxiety
 - depression
 - schizotypy
+- paranoia
 sample_size: 1046
 ---
 

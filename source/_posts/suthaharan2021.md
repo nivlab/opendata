@@ -27,6 +27,7 @@ tags:
 - anxiety
 - depression
 - compulsivity
+- paranoia
 sample_size: 1
 ---
 
