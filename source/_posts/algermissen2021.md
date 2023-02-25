@@ -13,7 +13,7 @@ paper_url: https://doi.org/10.1093/cercor/bhab391
 data_url: https://data.donders.ru.nl/collections/di/dccn/DSC_3017042.02_604?6
 tags:
 - pavlovian go/no-go task
-- eeg
+- m/eeg
 sample_size: 36
 ---
 
