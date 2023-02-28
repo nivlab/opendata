@@ -16,7 +16,7 @@ tags:
 - cognitive control
 - compulsivity
 - tdcs
-- eeg
+- m/eeg
 sample_size: 60
 ---
 

@@ -7,7 +7,7 @@ authors:
 - Unnthórsson, Rúnar
 - Kristjansson, Arni
 - Thornton, Ian Michael
-journal: nan
+journal: PsyArXiv
 paper_url: https://doi.org/10.31234/osf.io/73rct
 data_url: https://osf.io/xu5rd/
 tags:

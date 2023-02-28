@@ -1,5 +1,5 @@
 ---
-title: Pederson et al. (2021)
+title: Pedersen et al. (2021)
 subtitle: Computational phenotyping of brain-behavior dynamics underlying approach-avoidance conflict in major depressive disorder
 date: 2021/05/10
 authors:
