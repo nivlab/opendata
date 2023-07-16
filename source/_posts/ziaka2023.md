@@ -5,7 +5,7 @@ date: 2023/03/22
 authors:
 - Ziaka, Laoura
 - Protopapas, Athanassios
-journal: Journal of Experimental Psychology: Human Perception and Performance.
+journal: 'Journal of Experimental Psychology: Human Perception and Performance.'
 paper_url: https://doi.org/10.31234/osf.io/2st5f
 data_url: https://osf.io/fxgkd/
 tags:

@@ -6,7 +6,7 @@ authors:
 - Crawford, Jennifer Lee
 - English, Tammy
 - Braver, Todd Samuel
-journal: The Journals of Gerontology: Series B
+journal: 'The Journals of Gerontology: Series B'
 paper_url: https://doi.org/10.1093/geronb/gbac167
 data_url: https://osf.io/2jtpb/
 tags:
