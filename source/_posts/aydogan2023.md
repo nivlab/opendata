@@ -29,7 +29,7 @@ journal: Behav. Res. Methods
 paper_url: https://doi.org/10.3758/s13428-022-02050-9
 data_url: https://timingdatabase.shinyapps.io/DownloadUI/
 tags:
-- interval timing
+- time perception
 - database
 ---
 
