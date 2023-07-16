@@ -1,6 +1,6 @@
 ---
 title: Fradkin & Eldar (2022)
-subtitle: 'If you don't let it in, you don't have to get it out: Thought preemption as a method to control unwanted thoughts'
+subtitle: "If you don't let it in, you don't have to get it out: Thought preemption as a method to control unwanted thoughts"
 date: 2022/07/01
 authors:
 - Fradkin, Isaac

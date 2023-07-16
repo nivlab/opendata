@@ -1,5 +1,5 @@
 ---
-title: Rmus et al. (2023)
+title: Rmus et al. (2023a)
 subtitle: Choice Type Impacts Human Reinforcement Learning
 date: 2023/02/01
 authors:

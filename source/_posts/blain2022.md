@@ -1,6 +1,6 @@
 ---
 title: Blain et al. (2022)
-subtitle: 'Observing others give & take: A computational account of bystanders' feelings and actions'
+subtitle: "Observing others give & take: A computational account of bystanders' feelings and actions"
 date: 2022/05/01
 authors:
 - Blain, Bastien
