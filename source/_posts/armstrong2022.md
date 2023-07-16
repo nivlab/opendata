@@ -1,13 +1,13 @@
 ---
 title: Armstrong et al. (2022)
 subtitle: 'Vigilance: A Novel Conditioned Fear Response that Resists Extinction'
-date: 2022/02/23
+date: 2022/08/17
 authors:
 - Armstrong, Thomas
 - Engel, Mira
 - Dalmaijer, Edwin S
-journal: PsyArXiv
-paper_url: https://doi.org/10.31234/osf.io/4ct8x
+journal: Biological Psychiatry
+paper_url: https://doi.org/10.1016/j.biopsycho.2022.108401
 data_url: https://osf.io/hdgmu/
 tags:
 - pavlovian conditioning

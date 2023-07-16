@@ -1,14 +1,14 @@
 ---
-title: Zorowitz et al. (2022)
+title: Zorowitz et al. (2023)
 subtitle: 'An item response theory analysis of the Matrix Reasoning Item Bank (MaRs-IB)'
-date: 2022/05/26
+date: 2023/04/05
 authors:
 - Zorowitz, Samuel
 - Chierchia, Gabriele
 - Blakemore, Sarah-Jayne
 - Daw, Nathaniel
-journal: PsyArXiv
-paper_url: https://doi.org/10.31234/osf.io/j73af
+journal: Behav. Res. Methods
+paper_url: https://doi.org/10.3758/s13428-023-02067-8
 data_url: https://github.com/ndawlab/mars-irt
 tags:
 - abstract reasoning

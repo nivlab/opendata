@@ -1,13 +1,13 @@
 ---
-title: Copeland et al. (2022)
+title: Copeland et al. (2023)
 subtitle: 'Recovery from nicotine addiction: A diffusion model decomposition of value-based decision-making in current smokers and ex-smokers'
-date: 2022/11/02
+date: 2023/03/17
 authors:
 - Copeland, Amber
 - Stafford, Tom
 - Field, Matt
-journal: PsyArXiv
-paper_url: https://doi.org/10.31234/osf.io/3jrze
+journal: Nicotine & Tobacco Research
+paper_url: https://doi.org/10.1093/ntr/ntad040
 data_url: https://researchbox.org/814&amp;PEER_REVIEW_passcode=JTWLTX
 tags:
 -

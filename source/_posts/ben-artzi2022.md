@@ -1,13 +1,13 @@
 ---
 title: Ben Artzi et al. (2022a)
-subtitle: Cognitive resources predict value learning for outcome-irrelevant features
-date: 2022/02/13
+subtitle: Working memory capacity estimates moderate value learning for outcome-irrelevant features
+date: 2022/11/16
 authors:
 - Ben-Artzi, Ido
 - Luria, Roy
 - Shahar, Nitzan
-journal: PsyArXiv
-paper_url: https://doi.org/10.31234/osf.io/4j5rg
+journal: Sci Rep
+paper_url: https://doi.org/10.1038/s41598-022-21832-x
 data_url: https://osf.io/rfeqx/
 tags:
 - 2-arm bandit

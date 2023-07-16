@@ -1,15 +1,15 @@
 ---
-title: Lewis et al. (2022)
+title: Lewis et al. (2023)
 subtitle: Women compared with men work harder for small rewards
-date: 2022/10/29
+date: 2023/04/04
 authors:
 - Lewis, Carolin Annette
 - Grahlow, Melina
 - Kühnel, Anne
 - Dernt, Birgit
 - Kroemer, Nils B
-journal: PsyArXiv
-paper_url: https://doi.org/10.31234/osf.io/2qs6j
+journal: Sci Rep
+paper_url: https://doi.org/10.1038/s41598-023-32391-0
 data_url: https://osf.io/58r3c/?view_only=5d1ccee7d67b464bb6f40ebe7ebc844b
 tags:
 - effort

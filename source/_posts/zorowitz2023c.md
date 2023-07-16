@@ -1,14 +1,14 @@
 ---
-title: Zorowitz et al. (2021)
+title: Zorowitz et al. (2023)
 subtitle: Inattentive responding can induce spurious associations between task behavior and symptom measures
-date: 2021/04/12
+date: 2023/05/23
 authors:
 - Zorowitz, Samuel
 - Solis, Johanne
 - Niv, Yael
 - Bennett, Daniel
-journal: PsyArXiv
-paper_url: https://doi.org/10.31234/osf.io/rynhk
+journal: Nat. Hum. Behav.
+paper_url: https://doi.org/10.1038/s41562-023-01640-7
 data_url: https://github.com/nivlab/sciops
 tags:
 - multi-arm bandit

@@ -1,15 +1,15 @@
 ---
-title: Ez-zizi et al. (2022)
+title: Ez-zizi et al. (2023)
 subtitle: 'Reinforcement learning under uncertainty: expected versus unexpected uncertainty and state versus reward uncertainty'
-date: 2022/08/08
+date: 2023/03/20
 authors:
 - Ez-zizi, Adnane
 - Farrell, Simon
 - Leslie, David
 - Malhotra, Gaurav
 - Ludwig, Casimir Johannes Hendrikus
-journal: PsyArXiv
-paper_url: https://doi.org/10.31234/osf.io/7uxvy
+journal: Comput Brain Behav
+paper_url: https://doi.org/10.1007/s42113-022-00165-y
 data_url: https://osf.io/43jx8/?view_only=8ccae6aaabd74faeb61be1a82989174f
 tags:
 - 2-arm bandit

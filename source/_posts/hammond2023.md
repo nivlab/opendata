@@ -1,14 +1,14 @@
 ---
-title: Hammond et al. (2020)
-subtitle: Anxiety and Depression Related Abnormalities in Socio-affective Learning
-date: 2020/12/15
+title: Hammond et al. (2023)
+subtitle: Anxiety and depression related abnormalities in socio-affective learning
+date: 2023/05/16
 authors:
 - Hammond, Dylan
 - Xu, Pengfei
 - Ai, Hui
 - Van Dam, Nicholas T
-journal: PsyArXiv
-paper_url: https://doi.org/10.31234/osf.io/tg3ec
+journal: Journal of Affective Disorders
+paper_url: https://doi.org/10.1016/j.jad.2023.05.021
 data_url: https://osf.io/quy76/
 tags:
 - 2-arm bandit

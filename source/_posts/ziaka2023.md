@@ -1,11 +1,11 @@
 ---
-title: Ziaka & Protopapas (2022)
+title: Ziaka & Protopapas (2023)
 subtitle: 'Cognitive Control Beyond Single-Item Tasks: Insights from Pupillometry, Gaze, and Behavioral Measures'
-date: 2022/04/11
+date: 2023/03/22
 authors:
 - Ziaka, Laoura
 - Protopapas, Athanassios
-journal: PsyArXiv
+journal: Journal of Experimental Psychology: Human Perception and Performance.
 paper_url: https://doi.org/10.31234/osf.io/2st5f
 data_url: https://osf.io/fxgkd/
 tags:

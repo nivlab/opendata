@@ -1,13 +1,13 @@
 ---
-title: Embrey et al. (2022)
+title: Embrey et al. (2023)
 subtitle: Is All Mental Effort Equal? The Role of Cognitive Demand-Type on Effort Avoidance
-date: 2022/06/09
+date: 2023/03/02
 authors:
 - Embrey, Jake Ryan
 - Donkin, Chris
 - Newell, Ben R
-journal: PsyArXiv
-paper_url: https://doi.org/10.31234/osf.io/9fv35
+journal: Cognition
+paper_url: https://doi.org/10.1016/j.cognition.2023.105440
 data_url: https://osf.io/ydsau/
 tags:
 - effort

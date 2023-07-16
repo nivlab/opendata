@@ -1,5 +1,5 @@
 ---
-title: Snijder et al. (2022)
+title: Snijder et al. (2023)
 subtitle: 'On the Psychometric Evaluation of Cognitive Control Tasks: An Investigation with the Dual Mechanisms of Cognitive Control (DMCC) Battery'
 date: 2022/03/07
 authors:
@@ -8,8 +8,8 @@ authors:
 - Bugg, Julie
 - Conway, Andrew R A
 - Braver, Todd Samuel
-journal: PsyArXiv
-paper_url: https://doi.org/10.31234/osf.io/z7ury
+journal: Behav. Res. Methods
+paper_url: https://doi.org/10.3758/s13428-023-02111-7
 data_url: https://osf.io/pqvga/
 tags:
 - cognitive control

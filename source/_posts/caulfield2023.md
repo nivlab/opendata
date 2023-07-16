@@ -1,12 +1,12 @@
 ---
-title: Caulfield et al. (2022)
+title: Caulfield et al. (2023)
 subtitle: 'Impaired disengagement from worry: Dissociating the impacts of valence and internally-directed attention'
-date: 2022/03/25
+date: 2023/01/13
 authors:
 - Caulfield, Mary Kathleen
 - Hallion, Lauren S
-journal: PsyArXiv
-paper_url: https://doi.org/10.31234/osf.io/w5fkc
+journal: Behaviour Research and Therapy
+paper_url: https://doi.org/10.1016/j.brat.2022.104242
 data_url: https://osf.io/a7uxb/
 tags:
 - cognitive control

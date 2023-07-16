@@ -1,13 +1,13 @@
 ---
 title: Crawford et al. (2022)
 subtitle: Cognitive effort-based decision-making across experimental and daily life indices in younger and older adults
-date: 2022/06/03
+date: 2022/10/15
 authors:
 - Crawford, Jennifer Lee
 - English, Tammy
 - Braver, Todd Samuel
-journal: PsyArXiv
-paper_url: https://doi.org/10.31234/osf.io/y5w96
+journal: The Journals of Gerontology: Series B
+paper_url: https://doi.org/10.1093/geronb/gbac167
 data_url: https://osf.io/2jtpb/
 tags:
 - effort
