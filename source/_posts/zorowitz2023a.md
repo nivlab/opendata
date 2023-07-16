@@ -1,5 +1,5 @@
 ---
-title: Zorowitz et al. (2023)
+title: Zorowitz et al. (2023a)
 subtitle: 'An item response theory analysis of the Matrix Reasoning Item Bank (MaRs-IB)'
 date: 2023/04/05
 authors:

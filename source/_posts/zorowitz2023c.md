@@ -1,7 +1,7 @@
 ---
-title: Zorowitz et al. (2023)
+title: Zorowitz et al. (2023b)
 subtitle: Inattentive responding can induce spurious associations between task behavior and symptom measures
-date: 2023/05/23
+date: 2023/07/06
 authors:
 - Zorowitz, Samuel
 - Solis, Johanne
