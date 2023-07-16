@@ -1,6 +1,6 @@
 ---
 title: Haigh et al. (2021)
-subtitle: 'The role of Weber's law in human time perception'
+subtitle: "The role of Weber's law in human time perception"
 date: 2021/01/01
 authors:
 - Haigh, Andrew
