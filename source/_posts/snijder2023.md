@@ -1,7 +1,7 @@
 ---
 title: Snijder et al. (2023)
 subtitle: 'On the Psychometric Evaluation of Cognitive Control Tasks: An Investigation with the Dual Mechanisms of Cognitive Control (DMCC) Battery'
-date: 2022/03/07
+date: 2023/04/11
 authors:
 - Snijder, Jean-Paul
 - Tang, Rongxiang
