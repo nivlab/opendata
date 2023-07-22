@@ -1,7 +1,7 @@
 ---
-title: Raphaël et al. (2022)
-subtitle: A neuro-computational account of procrastination behavior
-date: 2022/08/30
+title: Le-Bouc & Pessiglione (2022)
+subtitle: 'A neuro-computational account of procrastination behavior'
+date: 2022/09/26
 authors:
 - Le Bouc, Raphaël
 - Pessiglione, Mathias
