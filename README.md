@@ -1,1 +1,1 @@
-This project has moved to [nimh-dsst.github.io/opendata](https://nimh-dsst.github.io/opendata/).
+This project has moved to [https://github.com/nimh-dsst/OpenCogData](https://github.com/nimh-dsst/OpenCogData).
